@@ -1,0 +1,2 @@
+# Article 4, Section 17. Act to embrace one subject only; title; amendment.
+Each law enacted by the Legislature shall embrace but one subject, and matter, properly connected therewith, which subject shall be briefly expressed in the title; and no law shall be revised or amended by reference to its title only; but, in such case, the act as revised or section as amended, shall be re-enacted and published at length.

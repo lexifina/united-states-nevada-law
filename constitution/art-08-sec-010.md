@@ -1,0 +1,2 @@
+# Article 8, Section 10. Loans of public money to or ownership of stock in certain corporations by county or municipal corporation prohibited.
+No county, city, town, or other municipal corporation shall become a stockholder in any joint stock company, corporation or association whatever, or loan its credit in aid of any such company, corporation or association, except, rail-road corporations[,] companies or associations.

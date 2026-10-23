@@ -1,0 +1,2 @@
+# Article 17, Section 24. Levy of tax limited for 3 years.
+For the first Three Years after the adoption of this Constitution the Legislature shall not levy a tax for State purposes, exceeding one per cent per annum on the taxable property in the State, Provided, the Legislature may levy a special tax not exceeding one fourth of one per cent per annum, which shall be appropriated to the payment of the indebtedness of the Territory of Nevada, assumed by the State of Nevada, and for that purpose only, until all of said indebtedness is paid.

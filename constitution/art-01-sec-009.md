@@ -1,0 +1,2 @@
+# Article 1, Section 9. Liberty of speech and the press.
+Every citizen may freely speak, write and publish his sentiments on all subjects being responsible for the abuse of that right; and no law shall be passed to restrain or abridge the liberty of speech or of the press. In all criminal prosecutions and civil actions for libels, the truth may be given in evidence to the Jury; and if it shall appear to the Jury that the matter charged as libelous is true and was published with good motives and for justifiable ends, the party shall be acquitted or exonerated.

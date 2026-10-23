@@ -1,0 +1,2 @@
+# Article 17, Section 7. Assumption of territorial debts and liabilities.
+All debts and liabilities of the Territory of Nevada, lawfully incurred and which remain unpaid, at the time of the admission of this State into the Union shall be assumed by and become the debt of the State of Nevada; Provided that the assumption of such indebtedness shall not prevent the State from contracting the additional indebtedness as provided in Section Three of Article Nine of this Constitution.

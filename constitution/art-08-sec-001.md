@@ -1,0 +1,2 @@
+# Article 8, Section 1. Corporations formed under general laws; municipal corporations formed under special acts.
+Section. 1. Corporations formed under general laws; municipal corporations formed under special acts. The Legislature shall pass no Special Act in any manner relating to corporate powers except for Municipal purposes; but corporations may be formed under general laws; and all such laws may from time to time, be altered or repealed.

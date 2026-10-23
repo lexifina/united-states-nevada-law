@@ -1,0 +1,2 @@
+# Article 17, Section 10. Terms of Senators and members of Assembly after 1866.
+At the general election in A.D. Eighteen hundred and Sixty Six; and thereafter, the term of Senators shall be for Four Years from the day succeeding such general election, and members of Assembly for Two Years from the day succeeding such general election, and the terms of Senators shall be allotted by the Legislature in long and short terms as hereinbefore provided; so that one half the number as nearly as may be, shall be elected every Two Years.

@@ -1,0 +1,2 @@
+# Article 4, Section 8. Senators and members of Assembly ineligible for certain offices.
+No Senator or member of Assembly shall, during the term for which he shall have been elected, nor for one year thereafter be appointed to any civil office of profit under this State which shall have been created, or the emoluments of which shall have been increased during such term, except such office as may be filled by elections by the people.

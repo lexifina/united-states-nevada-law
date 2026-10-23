@@ -1,0 +1,2 @@
+# Article 15, Section 9. Increase or decrease of compensation of officers whose compensation fixed by constitution.
+The Legislature may, at any time, provide by law for increasing or diminishing the salaries or compensation of any of the Officers, whose salaries or compensation is fixed in this Constitution; Provided, no such change of Salary or compensation shall apply to any Officer during the term for which he may have been elected.

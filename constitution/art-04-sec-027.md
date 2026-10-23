@@ -1,0 +1,2 @@
+# Article 4, Section 27. Disqualification of jurors; elections.
+Laws shall be made to exclude from serving on juries, all persons not qualified electors of this State, and all persons who shall have been convicted of bribery, perjury, foregery [forgery,] larceny or other high crimes, unless restored to civil rights; and laws shall be passed regulating elections, and prohibiting under adequate penalties, all undue influence thereon from power, bribery, tumult, or other improper practice.

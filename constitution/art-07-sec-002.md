@@ -1,0 +1,2 @@
+# Article 7, Section 2. Officers subject to impeachment.
+The Governor and other state and judicial officers, except justices of the peace shall be liable to impeachment for misdemeanor or malfeasance in office; but judgment in such case shall not extend further than removal from office and disqualification to hold any office of honor, profit, or trust under this State. The party whether convicted or acquitted, shall, nevertheless, be liable to indictment, trial, judgment and punishment according to law.

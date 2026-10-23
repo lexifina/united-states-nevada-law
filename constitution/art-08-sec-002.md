@@ -1,0 +1,2 @@
+# Article 8, Section 2. Corporate property subject to taxation; exemptions.
+All real property, and possessory rights to the same, as well as personal property in this State, belonging to corporations now existing or hereafter created shall be subject to taxation, the same as property of individuals; Provided, that the property of corporations formed for Municipal, Charitable, Religious, or Educational purposes may be exempted by law.

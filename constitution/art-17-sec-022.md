@@ -1,0 +1,2 @@
+# Article 17, Section 22. Vacancies in certain state offices: How filled.
+Sec. 22. Vacancies in certain state offices: How filled. In case the office of any State officer, except a judicial officer, shall become vacant before the expiration of the regular term for which he was elected, the vacancy may be filled by appointment by the Governor until it shall be supplied at the next general election, when it shall be filled by election for the residue of the unexpired term.

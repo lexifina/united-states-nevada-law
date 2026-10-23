@@ -1,0 +1,2 @@
+# Article 1, Section 18. Unreasonable seizure and search; issuance of warrants.
+Sec. 18. Unreasonable seizure and search; issuance of warrants. The right of the people to be secure in their persons, houses, papers and effects against unreasonable seizures and searches shall not be violated; and no warrant shall issue but on probable cause, supported by Oath or Affirmation, particularly describing the place or places to be searched, and the person or persons, and thing or things to be seized.

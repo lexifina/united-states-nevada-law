@@ -1,0 +1,2 @@
+# Article 17, Section 23. Civil and criminal cases pending in probate courts transferred to district courts.
+All cases both civil and criminal, which may be pending and undetermined in the Probate Courts of the several counties at the time when under the provisions of this Constitution, said Probate Courts are to be abolished, shall be transferred to and determined by the District Courts of such counties respectively.

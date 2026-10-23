@@ -1,0 +1,2 @@
+# Article 11, Section 1. Legislature to encourage education; appointment, term and duties of superintendent of public instruction.
+Section 1. Legislature to encourage education; appointment, term and duties of superintendent of public instruction. The legislature shall encourage by all suitable means the promotion of intellectual, literary, scientific, mining, mechanical, agricultural, and moral improvements, and also provide for a superintendent of public instruction and by law prescribe the manner of appointment, term of office and the duties thereof.

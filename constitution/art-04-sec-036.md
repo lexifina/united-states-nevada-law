@@ -1,0 +1,2 @@
+# Article 4, Section 36. Abolishment of county; approval of voters in county.
+[Sec. 36.] Abolishment of county; approval of voters in county. The legislature shall not abolish any county unless the qualified voters of the county affected shall at a general or special election first approve such proposed abolishment by a majority of all the voters voting at such election. The legislature shall provide by law the method of initiating and conducting such election.

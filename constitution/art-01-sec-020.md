@@ -1,0 +1,2 @@
+# Article 1, Section 20. Rights retained by people.
+This enumeration of rights shall not be construed to impair or deny others retained by the people.

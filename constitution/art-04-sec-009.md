@@ -1,0 +1,2 @@
+# Article 4, Section 9. Federal officers ineligible for state office; exceptions.
+No person holding any lucrative office under the Government of the United States or any other power, shall be eligible to any civil office of Profit under this State; Provided, that Post-Masters whose compensation does not exceed Five Hundred dollars per annum, or commissioners of deeds, shall not be deemed as holding a lucrative office.

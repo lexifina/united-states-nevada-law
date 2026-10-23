@@ -1,0 +1,2 @@
+# Article 4, Section 31. Property of married persons.
+Sec. 31. Property of married persons. All property, both real and personal, of a married person owned or claimed by such person before marriage, and that acquired afterward by gift, devise or descent, shall be the separate property of such person. The legislature shall more clearly define the rights of married persons in relation to their separate property and other property.

@@ -1,0 +1,2 @@
+# Article 17, Section 11. Terms of members of Assembly elected at first general election or in 1865.
+The term of the members of the Assembly elected at the first general election under this Constitution shall expire on the day succeeding the general election in AD. Eighteen hundred and Sixty Five; and the terms of those elected at the general election in AD. Eighteen hundred and Sixty Five, shall expire on the day succeeding the general election in A.D. Eighteen hundred and Sixty six.

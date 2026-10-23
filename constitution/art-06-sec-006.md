@@ -1,0 +1,6 @@
+# Article 6, Section 6. District Courts: Jurisdiction; referees; family court.
+Sec. 6. District Courts: Jurisdiction; referees; family court.
+1. The District Courts in the several Judicial Districts of this State have original jurisdiction in all cases excluded by law from the original jurisdiction of justices' courts. They also have final appellate jurisdiction in cases arising in Justices Courts and such other inferior tribunals as may be established by law. The District Courts and the Judges thereof have power to issue writs of Mandamus, Prohibition, Injunction, Quo-Warranto, Certiorari, and all other writs proper and necessary to the complete exercise of their jurisdiction. The District Courts and the Judges thereof shall also have power to issue writs of Habeas Corpus on petition by, or on behalf of any person who is held in actual custody in their respective districts, or who has suffered a criminal conviction in their respective districts and has not completed the sentence imposed pursuant to the judgment of conviction.
+2. The legislature may provide by law for:
+(a) Referees in district courts.
+(b) The establishment of a family court as a division of any district court and may prescribe its jurisdiction.

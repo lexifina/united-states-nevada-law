@@ -1,0 +1,2 @@
+# Article 2, Section 8. Qualifications of voters on adoption or rejection of constitution.
+All persons qualified by law to vote for representatives to the General Assembly of the Territory of Nevada, on the twenty first day of March A.D. Eighteen hundred and sixty four and all other persons who may be lawful voters in said Territory on the first Wednesday of September next following, shall be entitled to vote directly upon the question of adopting or rejecting this Constitution.

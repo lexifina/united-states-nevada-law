@@ -1,0 +1,2 @@
+# Article 1, Section 4. Liberty of conscience.
+The free exercise and enjoyment of religious profession and worship without discrimination or preference shall forever be allowed in this State, and no person shall be rendered incompetent to be a witness on account of his opinions on matters of his religious belief, but the liberty of consciene [conscience] hereby secured, shall not be so construed, as to excuse acts of licentiousness or justify practices inconsistent with the peace, or safety of this State.

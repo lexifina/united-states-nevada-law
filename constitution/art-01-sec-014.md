@@ -1,0 +1,2 @@
+# Article 1, Section 14. Exemption of property from execution; imprisonment for debt.
+The privilege of the debtor to enjoy the necessary comforts of life shall be recognized by wholesome laws, exempting a reasonable amount of property from seizure or sale for payment of any debts or liabilities hereafter contracted; And there shall be no imprisonment for debt, except in cases of fraud, libel, or slander, and no person shall be imprisioned [imprisoned] for a Militia fine in time of Peace.

@@ -1,0 +1,2 @@
+# Article 4, Section 6. Power of houses to judge qualifications, elections and returns of members; selection of officers; rules of proceedings; punishment of members.
+Each House shall judge of the qualifications, elections and returns of its own members, choose its own officers (except the President of the Senate), determine the rules of its proceedings and may punish its members for disorderly conduct, and with the concurrence of two thirds of all the members elected, expel a member.

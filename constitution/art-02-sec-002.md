@@ -1,0 +1,2 @@
+# Article 2, Section 2. When residence not gained or lost.
+Sec. 2. When residence not gained or lost. For the purpose of voting, no person shall be deemed to have gained or lost a residence solely by reason of his presence or absence while employed in the service of the United States, nor while engaged in the navigation of the waters of the United States or of the high seas; nor while a student of any institution of learning; nor while kept at any charitable institution or medical facility at public expense; nor while confined in any public prison.

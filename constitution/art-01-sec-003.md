@@ -1,0 +1,2 @@
+# Article 1, Section 3. Trial by jury; waiver in civil cases.
+The right of trial by Jury shall be secured to all and remain inviolate forever; but a Jury trial may be waived by the parties in all civil cases in the manner to be prescribed by law; and in civil cases, if three fourths of the Jurors agree upon a verdict it shall stand and have the same force and effect as a verdict by the whole Jury, Provided, the Legislature by a law passed by a two thirds vote of all the members elected to each branch thereof may require a unanimous verdict notwithstanding this Provision.
