@@ -1,0 +1,8 @@
+{
+  "path": "united-states/nevada",
+  "code": "US-NV",
+  "name": "United States (Nevada)",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-nevada-law",
+  "build": "built"
+}

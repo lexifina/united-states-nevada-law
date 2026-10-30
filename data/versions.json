@@ -1,0 +1,75 @@
+{
+ "country": "US-NV",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "Nev. Const.",
+   "title": "Constitution of the State of Nevada",
+   "url": "https://www.leg.state.nv.us/Const/NVConst.html",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 219,
+     "source_url": "https://web.archive.org/web/20261023013701id_/https://www.leg.state.nv.us/Const/NVConst.html",
+     "sha256": "726067b645f47709f00c2cf23ee6a514f7fc64381fd6c1f6eb0b1f48b31c51cc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-193",
+   "short": "NRS 193",
+   "title": "Nevada Revised Statutes, chapter 193: Criminality Generally",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-193.html",
+   "versions": [
+    {
+     "from": "2026-07-13",
+     "units": 82,
+     "source_url": "https://web.archive.org/web/20260713111520id_/https://www.leg.state.nv.us/NRS/NRS-193.html",
+     "sha256": "b4cdfe121b9253f12f22bdfbb0331ad92174fafac05bfd3d87077a3d9833ef17"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-200",
+   "short": "NRS 200",
+   "title": "Nevada Revised Statutes, chapter 200: Crimes Against the Person",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-200.html",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 154,
+     "source_url": "https://web.archive.org/web/20261023id_/https://www.leg.state.nv.us/NRS/NRS-200.html",
+     "sha256": "d4ab64214062bd9f3336043f08ffd0393928d473f0b71dd7a256080f47c3d40a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-205",
+   "short": "NRS 205",
+   "title": "Nevada Revised Statutes, chapter 205: Crimes Against Property",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-205.html",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 238,
+     "source_url": "https://web.archive.org/web/20261023id_/https://www.leg.state.nv.us/NRS/NRS-205.html",
+     "sha256": "60271758cfc7a395189f833c631c1e44d0b5342c2681849471d475065e46dea4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-111",
+   "short": "NRS 111",
+   "title": "Nevada Revised Statutes, chapter 111: Estates in Property",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-111.html",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 190,
+     "source_url": "https://web.archive.org/web/20261023id_/https://www.leg.state.nv.us/NRS/NRS-111.html",
+     "sha256": "f04f9a03e6302465a1815cc6f77de838b977fb8216710397b56dc4cb90e198fe"
+    }
+   ]
+  }
+ ]
+}
