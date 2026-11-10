@@ -24,11 +24,11 @@ t = re.sub(r'\n\| `nrs-(?!193/|200/|205/|111/)[^\n]*', '', t)
 i = t.index('| `nrs-111/` |')
 j = t.index(NL, i)
 t = t[:j] + rows + t[j:]
-note = (f'Chapters added on 2026-11-10 ({len(acts)} chapters, {nsec} sections): each chapter page is read from its newest web '
-        'capture (Common Crawl or the Internet Archive) and dated by the revision stamp the page prints ("Rev. <date>"), '
-        'or by the capture day when the page has none. A section the page prints twice (for example a text in force from '
-        'a later day) keeps both texts, in page order.')
+note = (f'Chapters added on 2026-11-10 ({len(acts)} chapters, {nsec} sections) are each read from the newest web-archive copy of '
+        'the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has '
+        'none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.')
 t = re.sub(r'\nChapters added on 2026-11-10[^\n]*\n', '\n', t)
+t = re.sub(r'\nA section the page prints twice[^\n]*\n', '\n', t)
 k = t.index('## What it does not show')
 t = t[:k] + note + NL + NL + t[k:]
 t = t.replace('- **Other law.** The rest of the Nevada Revised Statutes is not yet included; NRS chapter 78 (private corporations) has no Internet Archive capture.',

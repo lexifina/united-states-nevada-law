@@ -23,10 +23,34 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-006/` | NRS chapter 6: Juries | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
 | `nrs-007/` | NRS chapter 7: Attorneys and counselors at law | 1 | Oldest version available, dated 2026-04-15 (24 sections) |
 | `nrs-010/` | NRS chapter 10: General provisions | 1 | Oldest version available, dated 2026-04-15 (20 sections) |
+| `nrs-011/` | NRS chapter 11: Limitation of actions | 1 | Oldest version available, dated 2026-04-15 (56 sections) |
+| `nrs-012/` | NRS chapter 12: Parties | 1 | Oldest version available, dated 2024-06-29 (14 sections) |
+| `nrs-013/` | NRS chapter 13: Place of trial | 1 | Oldest version available, dated 2026-04-15 (6 sections) |
+| `nrs-014/` | NRS chapter 14: Commencement of actions | 1 | Oldest version available, dated 2026-04-15 (15 sections) |
+| `nrs-015/` | NRS chapter 15: Pleadings, motions and orders | 1 | Oldest version available, dated 2024-06-29 (4 sections) |
+| `nrs-016/` | NRS chapter 16: Date of trial; trial by jury; masters | 1 | Oldest version available, dated 2024-06-29 (21 sections) |
+| `nrs-017/` | NRS chapter 17: Judgments | 1 | Oldest version available, dated 2026-04-15 (90 sections) |
+| `nrs-018/` | NRS chapter 18: Costs and disbursements | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
+| `nrs-019/` | NRS chapter 19: Fees | 1 | Oldest version available, dated 2026-04-15 (26 sections) |
+| `nrs-020/` | NRS chapter 20: Bonds and undertakings; deposits in lieu thereof | 1 | Oldest version available, dated 2026-04-15 (8 sections) |
+| `nrs-021/` | NRS chapter 21: Enforcement of judgments | 1 | Oldest version available, dated 2024-06-29 (45 sections) |
+| `nrs-022/` | NRS chapter 22: Contempts | 1 | Oldest version available, dated 2024-06-29 (14 sections) |
+| `nrs-028/` | NRS chapter 28: General provisions | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
+| `nrs-029/` | NRS chapter 29: Submitting a controversy without action | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
+| `nrs-029a/` | NRS chapter 29A: Summary proceedings | 1 | Oldest version available, dated 2024-06-29 (9 sections) |
+| `nrs-030/` | NRS chapter 30: Declaratory judgments | 1 | Oldest version available, dated 2026-04-15 (17 sections) |
+| `nrs-031/` | NRS chapter 31: Attachment, garnishment and other extraordinary remedies | 1 | Oldest version available, dated 2026-04-15 (113 sections) |
+| `nrs-031a/` | NRS chapter 31A: Enforcement of obligations for support of children | 1 | Oldest version available, dated 2024-06-29 (43 sections) |
+| `nrs-032/` | NRS chapter 32: Receivers | 1 | Oldest version available, dated 2024-06-29 (53 sections) |
+| `nrs-033/` | NRS chapter 33: Injunctions; protection orders | 1 | Oldest version available, dated 2026-09-09 (81 sections) |
+| `nrs-034/` | NRS chapter 34: Writs; petition to establish factual innocence | 1 | Oldest version available, dated 2026-04-15 (99 sections) |
+| `nrs-035/` | NRS chapter 35: Quo warranto | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-036/` | NRS chapter 36: Provisional remedies on behalf of defendant | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
+| `nrs-037/` | NRS chapter 37: Eminent domain | 1 | Oldest version available, dated 2026-04-15 (45 sections) |
 | `nrs-218f/` | NRS chapter 218F: Legislative counsel bureau | 1 | Oldest version available, dated 2026-04-15 (31 sections) |
 | `nrs-220/` | NRS chapter 220: Revision of statutes | 1 | Oldest version available, dated 2024-06-29 (16 sections) |
 
-A section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
+Chapters added on 2026-11-10 (36 chapters, 1362 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
 
 ## What it does not show
 

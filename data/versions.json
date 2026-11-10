@@ -212,6 +212,342 @@
    ]
   },
   {
+   "slug": "nrs-011",
+   "short": "NRS 11",
+   "title": "Nevada Revised Statutes, chapter 11: Limitation of actions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-011.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 56,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-011.html",
+     "sha256": "e21bdde020606c1ae00134b3739ae29c6ed5817d47c6295a47e1239a25a31d83"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-012",
+   "short": "NRS 12",
+   "title": "Nevada Revised Statutes, chapter 12: Parties",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-012.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 14,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-012.html",
+     "sha256": "f7cb6a8876f76a372c3fcc877b7b3f8de03b2aa464ee3f72a0cfe2df90ce77e6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-013",
+   "short": "NRS 13",
+   "title": "Nevada Revised Statutes, chapter 13: Place of trial",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-013.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-013.html",
+     "sha256": "f5b1cdb6054006c3a1de8e276425904d2a8141d9d38b3f7975557fdb589b47fe"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-014",
+   "short": "NRS 14",
+   "title": "Nevada Revised Statutes, chapter 14: Commencement of actions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-014.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-014.html",
+     "sha256": "f912f8da959eb89d64c45aa558885699cbdaef496a3b83b15cfb403e6bef36e7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-015",
+   "short": "NRS 15",
+   "title": "Nevada Revised Statutes, chapter 15: Pleadings, motions and orders",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-015.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 4,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-015.html",
+     "sha256": "126ec55d18c23a83d6aa5d0bde7abc9e1e57957f495544647857e6e28957f1aa"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-016",
+   "short": "NRS 16",
+   "title": "Nevada Revised Statutes, chapter 16: Date of trial; trial by jury; masters",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-016.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 21,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-016.html",
+     "sha256": "489e8c4e0048bcd6d4bf0d0952057813bd2d30ca65481642b32b4fa7258798ec"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-017",
+   "short": "NRS 17",
+   "title": "Nevada Revised Statutes, chapter 17: Judgments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-017.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 90,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-017.html",
+     "sha256": "1b03cddc4dd3b3dbf44bf25aefa1c66efc073fe6c26f05fef1b1947cc16a1a2d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-018",
+   "short": "NRS 18",
+   "title": "Nevada Revised Statutes, chapter 18: Costs and disbursements",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-018.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 19,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-018.html",
+     "sha256": "5de9aaa6dcc45c18ba37ae1db546573f7afcfa4c6fbac76a84cea55a80a0b3f7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-019",
+   "short": "NRS 19",
+   "title": "Nevada Revised Statutes, chapter 19: Fees",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-019.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 26,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-019.html",
+     "sha256": "348961866ed046147de25ae38160f2733919e922ffd29599cab1a1e60d4716a0"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-020",
+   "short": "NRS 20",
+   "title": "Nevada Revised Statutes, chapter 20: Bonds and undertakings; deposits in lieu thereof",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-020.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 8,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-020.html",
+     "sha256": "035d06d29123a916d7d1fdc87e1a85ed82fa0eca1b678988763a84faa3476c3e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-021",
+   "short": "NRS 21",
+   "title": "Nevada Revised Statutes, chapter 21: Enforcement of judgments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-021.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 45,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-021.html",
+     "sha256": "4a298b32a3514192cb28c61e060eb3561e34060a6a2c8308ba0f3916fc2b5d76"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-022",
+   "short": "NRS 22",
+   "title": "Nevada Revised Statutes, chapter 22: Contempts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-022.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 14,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-022.html",
+     "sha256": "34df57deeb602a8a9b60831d5302f289c0a987e5477193c7cd40198839b1f5b4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-028",
+   "short": "NRS 28",
+   "title": "Nevada Revised Statutes, chapter 28: General provisions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-028.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 17,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-028.html",
+     "sha256": "3a0a5ffb153899a2f051eec000d3a3d75615c20ee328a67ac75e813c1c9da4bc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-029",
+   "short": "NRS 29",
+   "title": "Nevada Revised Statutes, chapter 29: Submitting a controversy without action",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-029.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 3,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-029.html",
+     "sha256": "1728b7732b161a1aa2f3db307f11111a00a73288c1b7e4df508b8d45c3395691"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-029a",
+   "short": "NRS 29A",
+   "title": "Nevada Revised Statutes, chapter 29A: Summary proceedings",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-029A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 9,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-029A.html",
+     "sha256": "30fdf248820cfab1d7bcf47637afb22e17e8067a9119e73baa81259e9afe3d57"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-030",
+   "short": "NRS 30",
+   "title": "Nevada Revised Statutes, chapter 30: Declaratory judgments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-030.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 17,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-030.html",
+     "sha256": "4cd186d3edcef0dc36abc37e9717ac0d398499ed310d4e046b285267dc2bed9e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-031",
+   "short": "NRS 31",
+   "title": "Nevada Revised Statutes, chapter 31: Attachment, garnishment and other extraordinary remedies",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-031.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 113,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-031.html",
+     "sha256": "e3858b2e6386b1a637fb489a8e10560f1bce7a35d6236325f534a1da2842662a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-031a",
+   "short": "NRS 31A",
+   "title": "Nevada Revised Statutes, chapter 31A: Enforcement of obligations for support of children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-031A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 43,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-031A.html",
+     "sha256": "897fcafb238b6ef7a1e3cfd992c3a3645046fa2dbd0b4e36a8673930b98f417f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-032",
+   "short": "NRS 32",
+   "title": "Nevada Revised Statutes, chapter 32: Receivers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-032.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 53,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-032.html",
+     "sha256": "71bf469a83effa8100fb7317e4b778d72e0be2c10c06ee2aa019b6364c24250d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-033",
+   "short": "NRS 33",
+   "title": "Nevada Revised Statutes, chapter 33: Injunctions; protection orders",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-033.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 81,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-033.html",
+     "sha256": "964db414e4cd862026283b198d85391ba63514265f8989fab86d2804bcf48627"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-034",
+   "short": "NRS 34",
+   "title": "Nevada Revised Statutes, chapter 34: Writs; petition to establish factual innocence",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-034.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 99,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-034.html",
+     "sha256": "0e607a0449786215727ed6e57024345dc3bb414501df1ccf60fb6fe39c6d0184"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-035",
+   "short": "NRS 35",
+   "title": "Nevada Revised Statutes, chapter 35: Quo warranto",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-035.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-035.html",
+     "sha256": "6c546d3e0e9b59a2a18649c01aca3591f70aca60536be412e9f6fbf19559cdc9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-036",
+   "short": "NRS 36",
+   "title": "Nevada Revised Statutes, chapter 36: Provisional remedies on behalf of defendant",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-036.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 1,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-036.html",
+     "sha256": "52b727ab6d88201e2e6e41a1144aeffc6c72031f04af7c335291df1c74ca71cc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-037",
+   "short": "NRS 37",
+   "title": "Nevada Revised Statutes, chapter 37: Eminent domain",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-037.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 45,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-037.html",
+     "sha256": "9651fb0435feb3926a28d1a916fe633edc9e09337cb4b2ed4033e17293c50a22"
+    }
+   ]
+  },
+  {
    "slug": "nrs-218f",
    "short": "NRS 218F",
    "title": "Nevada Revised Statutes, chapter 218F: Legislative counsel bureau",
