@@ -4,5 +4,5 @@
   "name": "United States (Nevada)",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-nevada-law",
-  "build": "built"
+  "build": "built: Constitution and 16 NRS chapters, one version each from web-archive captures"
 }

@@ -70,6 +70,174 @@
      "sha256": "f04f9a03e6302465a1815cc6f77de838b977fb8216710397b56dc4cb90e198fe"
     }
    ]
+  },
+  {
+   "slug": "nrs-001",
+   "short": "NRS 1",
+   "title": "Nevada Revised Statutes, chapter 1: Judicial department generally",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-001.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 93,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-001.html",
+     "sha256": "2edb1f801d4247389a65a7263251b1989241b0f231a97cd5f169de7b30724b94"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-001a",
+   "short": "NRS 1A",
+   "title": "Nevada Revised Statutes, chapter 1A: Judicial retirement",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-001A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 72,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-001A.html",
+     "sha256": "92c82f461741c4e8c3c80abc199dca02491fe07455b096b0cea4e1634e2de522"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-002",
+   "short": "NRS 2",
+   "title": "Nevada Revised Statutes, chapter 2: Supreme court",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-002.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 59,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-002.html",
+     "sha256": "008a4219e7af71c3eb418e00056bb97afddf23ad83c3d9fab5c69d798cf4f8d8"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-002a",
+   "short": "NRS 2A",
+   "title": "Nevada Revised Statutes, chapter 2A: Court of appeals",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-002A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 26,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-002A.html",
+     "sha256": "7dd42006fe6a814dc92ddc54f1155b8a804bcfce37c0d323bc5d3f7b9d528bb5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-003",
+   "short": "NRS 3",
+   "title": "Nevada Revised Statutes, chapter 3: District courts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-003.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 80,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-003.html",
+     "sha256": "26c91a9004bf71e7b4e04b1dbf415feb4de95f57186070e89bc2d7676de98de4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-004",
+   "short": "NRS 4",
+   "title": "Nevada Revised Statutes, chapter 4: Justice courts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-004.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 68,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-004.html",
+     "sha256": "5eaf0a858dbb09326ab02c45ee0763f3655feaee534c2aed34d13a41af8b8e20"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-005",
+   "short": "NRS 5",
+   "title": "Nevada Revised Statutes, chapter 5: Municipal courts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-005.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 28,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-005.html",
+     "sha256": "e6480040ada3c82d8267ad60ec33f332fe5b38f0b6d26096d3be8a91237ca8de"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-006",
+   "short": "NRS 6",
+   "title": "Nevada Revised Statutes, chapter 6: Juries",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-006.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 19,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-006.html",
+     "sha256": "a1b8c3638aab7064a165cab53a9e537cb4febbdc52227ff8af9a84de0f7631f9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-007",
+   "short": "NRS 7",
+   "title": "Nevada Revised Statutes, chapter 7: Attorneys and counselors at law",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-007.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 24,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-007.html",
+     "sha256": "3188d1d9ef6e73d681118e3fa5911a108f6f74910f1a864c0ffc6757a9ca197b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-010",
+   "short": "NRS 10",
+   "title": "Nevada Revised Statutes, chapter 10: General provisions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-010.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 20,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-010.html",
+     "sha256": "40898d7be6736aa67955c52cd0bc3caac77654432c308fe93f2ec95b6f75d923"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-218f",
+   "short": "NRS 218F",
+   "title": "Nevada Revised Statutes, chapter 218F: Legislative counsel bureau",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-218F.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-218F.html",
+     "sha256": "f30ecce2d90be590b14a2d709efb4d5780f1ffb2826f46dec9620ec8a5ddec0f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-220",
+   "short": "NRS 220",
+   "title": "Nevada Revised Statutes, chapter 220: Revision of statutes",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-220.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 16,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-220.html",
+     "sha256": "197135ea5624f04318508711ab5de261a76218bd516969bd5fb4a3b020ed7d67"
+    }
+   ]
   }
  ]
 }
