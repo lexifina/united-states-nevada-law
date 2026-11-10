@@ -709,8 +709,126 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-646/` | NRS chapter 646: Pawnbrokers | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
 | `nrs-647/` | – | 1 | Oldest version available, dated 2026-04-15 (46 sections) |
 | `nrs-648/` | NRS chapter 648: Private investigators, private patrol officers, polygraphic examiners, process servers, repossessors, dog handlers and registered employees | 1 | Oldest version available, dated 2026-04-15 (78 sections) |
+| `nrs-649/` | NRS chapter 649: Collection agencies | 1 | Oldest version available, dated 2026-04-15 (86 sections) |
+| `nrs-651/` | NRS chapter 651: Public accommodations | 1 | Oldest version available, dated 2024-06-29 (18 sections) |
+| `nrs-652/` | NRS chapter 652: Medical laboratories | 1 | Oldest version available, dated 2024-06-29 (47 sections) |
+| `nrs-653/` | NRS chapter 653: Radiation therapy and radiologic imaging | 1 | Oldest version available, dated 2026-04-15 (29 sections) |
+| `nrs-654/` | NRS chapter 654: Administrators of facilities for long-term care | 1 | Oldest version available, dated 2026-04-15 (34 sections) |
+| `nrs-655/` | NRS chapter 655: Locksmiths and safe mechanics | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
+| `nrs-656/` | NRS chapter 656: Certified court reporters; court reporting firms | 1 | Oldest version available, dated 2026-04-15 (45 sections) |
+| `nrs-656a/` | NRS chapter 656A: Sign language interpreters and realtime captioning providers | 1 | Oldest version available, dated 2024-06-29 (32 sections) |
+| `nrs-657/` | NRS chapter 657: General provisions | 1 | Oldest version available, dated 2024-06-29 (37 sections) |
+| `nrs-657a/` | NRS chapter 657A: Regulatory experimentation program for product innovation | 1 | Oldest version available, dated 2026-04-15 (30 sections) |
+| `nrs-658/` | NRS chapter 658: Supervision and control | 1 | Oldest version available, dated 2024-06-29 (25 sections) |
+| `nrs-659/` | NRS chapter 659: Organization and licensing of banks | 1 | Oldest version available, dated 2024-06-29 (13 sections) |
+| `nrs-660/` | NRS chapter 660: Branch offices; electronic terminals; automated tellers | 1 | Oldest version available, dated 2024-06-29 (25 sections) |
+| `nrs-661/` | NRS chapter 661: Organizational requirements | 1 | Oldest version available, dated 2026-04-15 (17 sections) |
+| `nrs-662/` | NRS chapter 662: Powers and miscellaneous provisions | 1 | Oldest version available, dated 2024-06-29 (33 sections) |
+| `nrs-663/` | NRS chapter 663: Deposits | 1 | Oldest version available, dated 2024-06-29 (5 sections) |
+| `nrs-664/` | NRS chapter 664: Withdrawals and collections | 1 | Oldest version available, dated 2024-06-29 (2 sections) |
+| `nrs-665/` | NRS chapter 665: Examinations and reports | 1 | Oldest version available, dated 2026-04-15 (18 sections) |
+| `nrs-666/` | NRS chapter 666: Major organizational changes; bank holding companies; interstate banking | 1 | Oldest version available, dated 2024-06-29 (43 sections) |
+| `nrs-666a/` | NRS chapter 666A: Foreign banks | 1 | Oldest version available, dated 2024-06-29 (40 sections) |
+| `nrs-667/` | NRS chapter 667: Liquidation and reorganization | 1 | Oldest version available, dated 2026-04-15 (21 sections) |
+| `nrs-668/` | NRS chapter 668: Prohibited practices and penalties | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
+| `nrs-669/` | NRS chapter 669: Trust companies | 1 | Oldest version available, dated 2026-04-15 (63 sections) |
+| `nrs-669a/` | NRS chapter 669A: Family trust companies | 1 | Oldest version available, dated 2026-04-15 (49 sections) |
+| `nrs-670b/` | NRS chapter 670B: Student loan servicers; private education lenders | 1 | Oldest version available, dated 2026-04-15 (56 sections) |
+| `nrs-671/` | NRS chapter 671: Money transmission | 1 | Oldest version available, dated 2024-12-09 (98 sections) |
+| `nrs-672/` | NRS chapter 672: Credit unions | 1 | Oldest version available, dated 2026-04-15 (109 sections) |
+| `nrs-673/` | NRS chapter 673: Savings banks | 1 | Oldest version available, dated 2026-04-15 (153 sections) |
+| `nrs-675/` | NRS chapter 675: Installment loans | 1 | Oldest version available, dated 2026-04-15 (73 sections) |
+| `nrs-676a/` | NRS chapter 676A: Uniform debt-management services act | 1 | Oldest version available, dated 2026-04-15 (70 sections) |
+| `nrs-677/` | NRS chapter 677: Thrift companies | 1 | Oldest version available, dated 2026-04-15 (106 sections) |
+| `nrs-678a/` | NRS chapter 678A: Administration of laws relating to cannabis | 1 | Oldest version available, dated 2026-04-15 (98 sections) |
+| `nrs-678b/` | NRS chapter 678B: Licensing and control of cannabis | 1 | Oldest version available, dated 2026-04-15 (66 sections) |
+| `nrs-678c/` | NRS chapter 678C: Medical use of cannabis | 1 | Oldest version available, dated 2026-04-15 (48 sections) |
+| `nrs-678d/` | NRS chapter 678D: Adult use of cannabis | 1 | Oldest version available, dated 2026-04-15 (22 sections) |
+| `nrs-679a/` | NRS chapter 679A: General provisions | 1 | Oldest version available, dated 2026-04-15 (30 sections) |
+| `nrs-679b/` | NRS chapter 679B: Commissioner of insurance | 1 | Oldest version available, dated 2026-04-15 (102 sections) |
+| `nrs-680a/` | NRS chapter 680A: Authorization of insurers and general requirements | 1 | Oldest version available, dated 2026-04-15 (55 sections) |
+| `nrs-680b/` | NRS chapter 680B: Fees and taxes | 1 | Oldest version available, dated 2026-04-15 (19 sections) |
+| `nrs-680c/` | NRS chapter 680C: Fund for insurance administration and enforcement | 1 | Oldest version available, dated 2026-04-15 (2 sections) |
+| `nrs-681a/` | NRS chapter 681A: Kinds of insurance; limits on risk; reinsurance | 1 | Oldest version available, dated 2026-04-15 (86 sections) |
+| `nrs-681b/` | NRS chapter 681B: Assets and liabilities | 1 | Oldest version available, dated 2024-06-29 (57 sections) |
+| `nrs-682a/` | NRS chapter 682A: Investments | 1 | Oldest version available, dated 2024-06-29 (189 sections) |
+| `nrs-682b/` | NRS chapter 682B: Deposits | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-683a/` | NRS chapter 683A: Persons involved in sale or administration of insurance | 1 | Oldest version available, dated 2026-04-15 (114 sections) |
+| `nrs-683c/` | NRS chapter 683C: Insurance consultants | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
+| `nrs-684a/` | NRS chapter 684A: Adjusters | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-684b/` | NRS chapter 684B: Appraisers of physical damage to motor vehicles | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
+| `nrs-685a/` | NRS chapter 685A: Nonadmitted insurance | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-685b/` | NRS chapter 685B: Unauthorized insurers; prohibitions, process and advertising | 1 | Oldest version available, dated 2026-04-15 (22 sections) |
+| `nrs-686a/` | NRS chapter 686A: Trade practices and frauds; financing of premiums | 1 | Oldest version available, dated 2026-04-15 (108 sections) |
+| `nrs-686b/` | NRS chapter 686B: Rates and essential insurance | 1 | Oldest version available, dated 2026-04-15 (86 sections) |
+| `nrs-686c/` | NRS chapter 686C: Nevada life and health insurance guaranty association | 1 | Oldest version available, dated 2026-04-15 (77 sections) |
+| `nrs-687a/` | NRS chapter 687A: Nevada insurance guaranty association | 1 | Oldest version available, dated 2026-04-15 (29 sections) |
+| `nrs-687b/` | NRS chapter 687B: Contracts of insurance | 1 | Oldest version available, dated 2026-04-15 (154 sections) |
+| `nrs-687c/` | NRS chapter 687C: Interstate insurance product regulation compact | 1 | Oldest version available, dated 2026-04-15 (3 sections) |
+| `nrs-688a/` | NRS chapter 688A: Life insurance and annuity contracts | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
+| `nrs-688b/` | NRS chapter 688B: Group life insurance | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
+| `nrs-688c/` | NRS chapter 688C: Viatical settlements | 1 | Oldest version available, dated 2024-06-29 (66 sections) |
+| `nrs-688d/` | NRS chapter 688D: Payment of benefits upon death of insured | 1 | Oldest version available, dated 2026-04-15 (14 sections) |
+| `nrs-689/` | NRS chapter 689: Funeral and burial services | 1 | Oldest version available, dated 2026-04-15 (70 sections) |
+| `nrs-689a/` | NRS chapter 689A: Individual health insurance | 1 | Oldest version available, dated 2026-04-15 (139 sections) |
+| `nrs-689b/` | NRS chapter 689B: Group and blanket health insurance | 1 | Oldest version available, dated 2026-04-15 (117 sections) |
+| `nrs-689c/` | NRS chapter 689C: Health insurance for small employers | 1 | Oldest version available, dated 2026-04-15 (120 sections) |
+| `nrs-690a/` | NRS chapter 690A: Credit insurance | 1 | Oldest version available, dated 2026-04-15 (37 sections) |
+| `nrs-690b/` | NRS chapter 690B: Casualty insurance | 1 | Oldest version available, dated 2026-04-15 (54 sections) |
+| `nrs-690c/` | NRS chapter 690C: Service contracts | 1 | Oldest version available, dated 2024-06-29 (31 sections) |
+| `nrs-690d/` | NRS chapter 690D: Guaranteed asset protection waivers | 1 | Oldest version available, dated 2024-06-29 (24 sections) |
+| `nrs-691a/` | NRS chapter 691A: Property insurance | 1 | Oldest version available, dated 2026-04-15 (5 sections) |
+| `nrs-691b/` | NRS chapter 691B: Sureties | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
+| `nrs-691c/` | NRS chapter 691C: Credit personal property insurance | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-691d/` | NRS chapter 691D: Portable electronics insurance | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
+| `nrs-691e/` | NRS chapter 691E: Travel insurance | 1 | Oldest version available, dated 2024-06-29 (35 sections) |
+| `nrs-692a/` | NRS chapter 692A: Title insurance | 1 | Oldest version available, dated 2026-04-15 (49 sections) |
+| `nrs-692b/` | NRS chapter 692B: Formation and capitalization of domestic stock and mutual insurers; financing of insurers and holding companies | 1 | Oldest version available, dated 2024-06-29 (28 sections) |
+| `nrs-692c/` | NRS chapter 692C: Holding companies | 1 | Oldest version available, dated 2026-04-15 (107 sections) |
+| `nrs-693a/` | NRS chapter 693A: Corporate powers and procedures of domestic stock and mutual insurers | 1 | Oldest version available, dated 2026-04-15 (92 sections) |
+| `nrs-693b/` | NRS chapter 693B: Continuity of management during emergency resulting from attack | 1 | Oldest version available, dated 2026-04-15 (17 sections) |
+| `nrs-694a/` | NRS chapter 694A: Trading of equity securities by insiders | 1 | Oldest version available, dated 2026-04-15 (8 sections) |
+| `nrs-694b/` | NRS chapter 694B: Reciprocal insurers | 1 | Oldest version available, dated 2026-04-15 (28 sections) |
+| `nrs-694c/` | NRS chapter 694C: Captive insurers | 1 | Oldest version available, dated 2026-04-15 (65 sections) |
+| `nrs-695a/` | NRS chapter 695A: Fraternal benefit societies | 1 | Oldest version available, dated 2026-04-15 (94 sections) |
+| `nrs-695b/` | NRS chapter 695B: Nonprofit corporations for hospital, medical and dental service | 1 | Oldest version available, dated 2026-04-15 (126 sections) |
+| `nrs-695c/` | NRS chapter 695C: Health maintenance organizations | 1 | Oldest version available, dated 2026-04-15 (127 sections) |
+| `nrs-695d/` | NRS chapter 695D: Plans for dental care | 1 | Oldest version available, dated 2026-04-15 (48 sections) |
+| `nrs-695e/` | NRS chapter 695E: Liability risk retention | 1 | Oldest version available, dated 2026-04-15 (24 sections) |
+| `nrs-695f/` | NRS chapter 695F: Prepaid limited health service organizations | 1 | Oldest version available, dated 2026-04-15 (47 sections) |
+| `nrs-695g/` | NRS chapter 695G: Managed care | 1 | Oldest version available, dated 2026-04-15 (99 sections) |
+| `nrs-695h/` | NRS chapter 695H: Medical discount plans | 1 | Oldest version available, dated 2022-05-02 (19 sections) |
+| `nrs-695i/` | NRS chapter 695I: Silver state health insurance exchange | 1 | Oldest version available, dated 2026-04-15 (28 sections) |
+| `nrs-695j/` | NRS chapter 695J: Persons who facilitate enrollment in certain qualified health plans | 1 | Oldest version available, dated 2024-06-29 (26 sections) |
+| `nrs-695k/` | NRS chapter 695K: Public option | 1 | Oldest version available, dated 2026-04-15 (17 sections) |
+| `nrs-696a/` | NRS chapter 696A: Motor clubs | 1 | Oldest version available, dated 2026-04-15 (38 sections) |
+| `nrs-696b/` | NRS chapter 696B: Delinquent insurers: conservation, rehabilitation and liquidation | 1 | Oldest version available, dated 2026-04-15 (63 sections) |
+| `nrs-696c/` | NRS chapter 696C: Administrative supervision of insurers | 1 | Oldest version available, dated 2026-04-15 (12 sections) |
+| `nrs-697/` | NRS chapter 697: Businesses related to bail | 1 | Oldest version available, dated 2026-04-15 (46 sections) |
+| `nrs-701/` | NRS chapter 701: Energy policy | 1 | Oldest version available, dated 2024-06-29 (88 sections) |
+| `nrs-701a/` | NRS chapter 701A: Energy-related tax incentives | 1 | Oldest version available, dated 2026-04-15 (28 sections) |
+| `nrs-701b/` | NRS chapter 701B: Renewable energy programs | 1 | Oldest version available, dated 2024-06-29 (112 sections) |
+| `nrs-702/` | NRS chapter 702: Energy assistance | 1 | Oldest version available, dated 2026-04-15 (19 sections) |
+| `nrs-703/` | NRS chapter 703: Public utilities commission of nevada | 1 | Oldest version available, dated 2026-04-15 (53 sections) |
+| `nrs-704/` | NRS chapter 704: Regulation of public utilities generally | 1 | Oldest version available, dated 2026-04-15 (414 sections) |
+| `nrs-704a/` | NRS chapter 704A: Facilities placed underground | 1 | Oldest version available, dated 2026-04-15 (35 sections) |
+| `nrs-704b/` | NRS chapter 704B: Providers of new electric resources | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-705/` | NRS chapter 705: Railroads and monorails | 1 | Oldest version available, dated 2024-06-29 (79 sections) |
+| `nrs-706/` | NRS chapter 706: Motor carriers | 1 | Oldest version available, dated 2026-04-15 (285 sections) |
+| `nrs-706a/` | NRS chapter 706A: Transportation network companies | 1 | Oldest version available, dated 2026-04-15 (43 sections) |
+| `nrs-706b/` | NRS chapter 706B: Autonomous vehicle network companies | 1 | Oldest version available, dated 2026-04-15 (28 sections) |
+| `nrs-707/` | NRS chapter 707: Telecommunications | 1 | Oldest version available, dated 2026-04-15 (40 sections) |
+| `nrs-708/` | NRS chapter 708: Oil pipelines | 1 | Oldest version available, dated 2024-06-29 (14 sections) |
+| `nrs-709/` | NRS chapter 709: Franchises by local governments | 1 | Oldest version available, dated 2024-06-29 (39 sections) |
+| `nrs-710/` | NRS chapter 710: Utilities owned by local governments | 1 | Oldest version available, dated 2026-04-15 (39 sections) |
+| `nrs-711/` | NRS chapter 711: Video service | 1 | Oldest version available, dated 2026-04-15 (80 sections) |
+| `nrs-712/` | NRS chapter 712: Storage of household goods and effects | 1 | Oldest version available, dated 2024-06-29 (9 sections) |
+| `nrs-719/` | NRS chapter 719: Electronic transactions (uniform act) | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-720/` | NRS chapter 720: Digital signatures | 1 | Oldest version available, dated 2026-04-15 (20 sections) |
+| `nrs-721/` | NRS chapter 721: Electronic legal material (uniform act) | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
+| `nrs-722/` | NRS chapter 722: Fiduciary access to digital assets (uniform act) | 1 | Oldest version available, dated 2024-06-29 (45 sections) |
 
-Chapters added on 2026-11-10 (696 chapters, 40197 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
+Chapters added on 2026-11-10 (814 chapters, 46723 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
 
 ## What it does not show
 
