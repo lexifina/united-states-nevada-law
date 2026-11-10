@@ -440,8 +440,277 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-388g/` | NRS chapter 388G: Alternative school management | 1 | Oldest version available, dated 2026-04-15 (49 sections) |
 | `nrs-388h/` | NRS chapter 388H: Programs of education for incarcerated persons | 1 | Oldest version available, dated 2026-04-15 (6 sections) |
 | `nrs-389/` | NRS chapter 389: Academics and textbooks | 1 | Oldest version available, dated 2026-09-09 (53 sections) |
+| `nrs-391a/` | NRS chapter 391A: Training, professional development and incentives | 1 | Oldest version available, dated 2024-12-09 (63 sections) |
+| `nrs-391b/` | NRS chapter 391B: Interstate teacher mobility compact | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
+| `nrs-392/` | NRS chapter 392: Pupils | 1 | Oldest version available, dated 2026-09-09 (151 sections) |
+| `nrs-393/` | NRS chapter 393: School property | 1 | Oldest version available, dated 2026-04-15 (64 sections) |
+| `nrs-394/` | NRS chapter 394: Private educational institutions and establishments | 1 | Oldest version available, dated 2026-09-09 (195 sections) |
+| `nrs-397/` | NRS chapter 397: Western regional education compact | 1 | Oldest version available, dated 2024-06-29 (23 sections) |
+| `nrs-398/` | NRS chapter 398: Intercollegiate athletics | 1 | Oldest version available, dated 2026-04-15 (22 sections) |
+| `nrs-398a/` | NRS chapter 398A: Revised uniform athlete agents act | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-399/` | NRS chapter 399: Interstate compact for education | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
+| `nrs-400/` | NRS chapter 400: P-20w research data system advisory committee | 1 | Oldest version available, dated 2024-06-29 (6 sections) |
+| `nrs-403/` | NRS chapter 403: County roads, highways and bridges | 1 | Oldest version available, dated 2024-06-29 (46 sections) |
+| `nrs-404/` | NRS chapter 404: Road districts | 1 | Oldest version available, dated 2024-06-29 (27 sections) |
+| `nrs-405/` | NRS chapter 405: Control and preservation of public highways | 1 | Oldest version available, dated 2026-04-15 (32 sections) |
+| `nrs-407/` | NRS chapter 407: State parks and monuments | 1 | Oldest version available, dated 2024-06-29 (39 sections) |
+| `nrs-407a/` | NRS chapter 407A: Outdoor recreation | 1 | Oldest version available, dated 2024-12-09 (37 sections) |
+| `nrs-408/` | NRS chapter 408: Highways, roads and transportation facilities | 1 | Oldest version available, dated 2026-04-15 (248 sections) |
+| `nrs-410/` | NRS chapter 410: Beautification of highways | 1 | Oldest version available, dated 2026-04-15 (43 sections) |
+| `nrs-413/` | NRS chapter 413: Civil air patrol | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
+| `nrs-414/` | NRS chapter 414: Emergency management | 1 | Oldest version available, dated 2026-04-15 (66 sections) |
+| `nrs-414a/` | NRS chapter 414A: Nevada intrastate mutual aid system | 1 | Oldest version available, dated 2026-04-15 (25 sections) |
+| `nrs-415/` | NRS chapter 415: Emergency management assistance compact | 1 | Oldest version available, dated 2026-04-15 (1 sections) |
+| `nrs-415a/` | NRS chapter 415A: Emergency volunteer health practitioners (uniform act) | 1 | Oldest version available, dated 2024-06-29 (29 sections) |
+| `nrs-416/` | NRS chapter 416: Emergencies concerning water or energy | 1 | Oldest version available, dated 2024-06-29 (10 sections) |
+| `nrs-417/` | NRS chapter 417: Veterans' services and honorary recognition related to military service | 1 | Oldest version available, dated 2026-04-15 (52 sections) |
+| `nrs-418/` | NRS chapter 418: Reemployment of veterans | 1 | Oldest version available, dated 2026-04-15 (2 sections) |
+| `nrs-419/` | NRS chapter 419: Recording of certificates of honorable discharge | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
+| `nrs-422/` | NRS chapter 422: Medicaid and other health care programs | 1 | Oldest version available, dated 2026-09-09 (247 sections) |
+| `nrs-422a/` | NRS chapter 422A: Public assistance and social services | 1 | Oldest version available, dated 2026-04-15 (153 sections) |
+| `nrs-424/` | NRS chapter 424: Foster homes for children | 1 | Oldest version available, dated 2026-04-15 (84 sections) |
+| `nrs-425/` | NRS chapter 425: Support of dependent children | 1 | Oldest version available, dated 2026-04-15 (74 sections) |
+| `nrs-426/` | NRS chapter 426: Persons with disabilities | 1 | Oldest version available, dated 2026-04-15 (72 sections) |
+| `nrs-427a/` | NRS chapter 427A: Services to aging persons and persons with disabilities | 1 | Oldest version available, dated 2026-04-15 (141 sections) |
+| `nrs-428/` | NRS chapter 428: Indigent persons | 1 | Oldest version available, dated 2024-06-29 (38 sections) |
+| `nrs-430a/` | NRS chapter 430A: Family resource centers | 1 | Oldest version available, dated 2026-04-15 (19 sections) |
+| `nrs-432/` | NRS chapter 432: Public services for children | 1 | Oldest version available, dated 2026-04-15 (91 sections) |
+| `nrs-432a/` | NRS chapter 432A: Services and facilities for care of children | 1 | Oldest version available, dated 2026-04-15 (105 sections) |
+| `nrs-432b/` | NRS chapter 432B: Protection of children from abuse and neglect | 1 | Oldest version available, dated 2026-09-09 (219 sections) |
+| `nrs-432c/` | NRS chapter 432C: Protection of children from sexual exploitation | 1 | Oldest version available, dated 2026-04-15 (15 sections) |
+| `nrs-433/` | NRS chapter 433: General provisions | 1 | Oldest version available, dated 2026-04-15 (155 sections) |
+| `nrs-433a/` | NRS chapter 433A: Admission to mental health facilities or assisted outpatient treatment; hospitalization | 1 | Oldest version available, dated 2026-04-15 (93 sections) |
+| `nrs-433b/` | NRS chapter 433B: Additional provisions relating to children | 1 | Oldest version available, dated 2026-04-15 (49 sections) |
+| `nrs-433c/` | NRS chapter 433C: Community mental health programs | 1 | Oldest version available, dated 2026-04-15 (25 sections) |
+| `nrs-435/` | NRS chapter 435: Persons with intellectual disabilities and developmental disabilities | 1 | Oldest version available, dated 2026-04-15 (143 sections) |
+| `nrs-439/` | NRS chapter 439: Administration of public health | 1 | Oldest version available, dated 2026-04-15 (255 sections) |
+| `nrs-439a/` | NRS chapter 439A: Planning for the provision of health care | 1 | Oldest version available, dated 2026-04-15 (70 sections) |
+| `nrs-439b/` | NRS chapter 439B: Restraining costs of health care | 1 | Oldest version available, dated 2026-04-15 (127 sections) |
+| `nrs-440/` | NRS chapter 440: Vital statistics | 1 | Oldest version available, dated 2026-04-15 (105 sections) |
+| `nrs-441a/` | NRS chapter 441A: Infectious diseases; reporting concerning communicable diseases, overdoses and attempted suicides | 1 | Oldest version available, dated 2026-04-15 (81 sections) |
+| `nrs-442/` | NRS chapter 442: Maternal and child health; abortion | 1 | Oldest version available, dated 2026-04-15 (106 sections) |
+| `nrs-444/` | NRS chapter 444: Sanitation | 1 | Oldest version available, dated 2026-04-15 (113 sections) |
+| `nrs-444a/` | NRS chapter 444A: Programs for recycling | 1 | Oldest version available, dated 2026-04-15 (24 sections) |
+| `nrs-445a/` | NRS chapter 445A: Water controls | 1 | Oldest version available, dated 2026-04-15 (200 sections) |
+| `nrs-445b/` | NRS chapter 445B: Air pollution | 1 | Oldest version available, dated 2026-04-15 (133 sections) |
+| `nrs-445c/` | NRS chapter 445C: Environmental requirements; cleanup of discharged petroleum | 1 | Oldest version available, dated 2024-06-29 (39 sections) |
+| `nrs-445d/` | NRS chapter 445D: Environmental covenants (uniform act) | 1 | Oldest version available, dated 2024-06-29 (22 sections) |
+| `nrs-446/` | NRS chapter 446: Food establishments | 1 | Oldest version available, dated 2026-04-15 (39 sections) |
+| `nrs-447/` | NRS chapter 447: Public accommodations | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-449/` | NRS chapter 449: Medical facilities and other related entities | 1 | Oldest version available, dated 2026-09-09 (272 sections) |
+| `nrs-449a/` | NRS chapter 449A: Care and rights of patients | 1 | Oldest version available, dated 2026-04-15 (180 sections) |
+| `nrs-449b/` | NRS chapter 449B: Agencies to provide personal care services and related entities | 1 | Oldest version available, dated 2026-04-15 (89 sections) |
+| `nrs-450/` | NRS chapter 450: County hospitals and hospital districts | 1 | Oldest version available, dated 2026-04-15 (93 sections) |
+| `nrs-450b/` | NRS chapter 450B: Emergency medical services | 1 | Oldest version available, dated 2026-04-15 (142 sections) |
+| `nrs-451/` | NRS chapter 451: Dead bodies | 1 | Oldest version available, dated 2024-06-29 (137 sections) |
+| `nrs-452/` | NRS chapter 452: Cemeteries | 1 | Oldest version available, dated 2024-06-29 (73 sections) |
+| `nrs-453/` | NRS chapter 453: Controlled substances | 1 | Oldest version available, dated 2026-04-15 (191 sections) |
+| `nrs-453b/` | NRS chapter 453B: Hiv/aids drug donation program | 1 | Oldest version available, dated 2026-04-15 (12 sections) |
+| `nrs-453c/` | NRS chapter 453C: Good samaritan drug overdose act | 1 | Oldest version available, dated 2026-04-15 (12 sections) |
+| `nrs-454/` | NRS chapter 454: Poisons; dangerous drugs and hypodermics | 1 | Oldest version available, dated 2026-04-15 (78 sections) |
+| `nrs-455/` | NRS chapter 455: Excavations and high-voltage lines | 1 | Oldest version available, dated 2026-04-15 (46 sections) |
+| `nrs-455a/` | NRS chapter 455A: Safety of participants in outdoor sports | 1 | Oldest version available, dated 2024-12-09 (23 sections) |
+| `nrs-455b/` | NRS chapter 455B: Recreational parks | 1 | Oldest version available, dated 2024-06-29 (33 sections) |
+| `nrs-455c/` | NRS chapter 455C: Boilers, elevators and pressure vessels | 1 | Oldest version available, dated 2026-04-15 (21 sections) |
+| `nrs-457/` | NRS chapter 457: Cancer | 1 | Oldest version available, dated 2024-06-29 (37 sections) |
+| `nrs-458/` | NRS chapter 458: Alcohol and other substance use disorders | 1 | Oldest version available, dated 2026-04-15 (38 sections) |
+| `nrs-458a/` | NRS chapter 458A: Prevention and treatment of problem gambling | 1 | Oldest version available, dated 2026-04-15 (22 sections) |
+| `nrs-459/` | NRS chapter 459: Hazardous materials | 1 | Oldest version available, dated 2026-04-15 (261 sections) |
+| `nrs-459a/` | NRS chapter 459A: Generators of electricity | 1 | Oldest version available, dated 2026-04-15 (5 sections) |
+| `nrs-460/` | NRS chapter 460: Human blood, blood products and body parts | 1 | Oldest version available, dated 2026-04-15 (11 sections) |
+| `nrs-461/` | NRS chapter 461: Manufactured buildings | 1 | Oldest version available, dated 2024-06-29 (33 sections) |
+| `nrs-461a/` | NRS chapter 461A: Mobile homes and parks | 1 | Oldest version available, dated 2026-04-15 (37 sections) |
+| `nrs-462/` | NRS chapter 462: Lotteries and games | 1 | Oldest version available, dated 2026-04-15 (31 sections) |
+| `nrs-463/` | NRS chapter 463: Licensing and control of gaming | 1 | Oldest version available, dated 2026-04-15 (375 sections) |
+| `nrs-463a/` | NRS chapter 463A: Gaming employees' labor organizations | 1 | Oldest version available, dated 2026-04-15 (26 sections) |
+| `nrs-463b/` | NRS chapter 463B: Supervision of certain gaming establishments | 1 | Oldest version available, dated 2026-04-15 (28 sections) |
+| `nrs-464/` | NRS chapter 464: Pari-mutuel wagering | 1 | Oldest version available, dated 2026-04-15 (14 sections) |
+| `nrs-465/` | NRS chapter 465: Crimes and liabilities concerning gaming | 1 | Oldest version available, dated 2026-04-15 (15 sections) |
+| `nrs-466/` | NRS chapter 466: Horse racing | 1 | Oldest version available, dated 2026-04-15 (47 sections) |
+| `nrs-467/` | NRS chapter 467: Unarmed combat | 1 | Oldest version available, dated 2026-04-15 (50 sections) |
+| `nrs-472/` | NRS chapter 472: State forester firewarden | 1 | Oldest version available, dated 2026-04-15 (24 sections) |
+| `nrs-474/` | NRS chapter 474: County fire protection districts | 1 | Oldest version available, dated 2026-04-15 (71 sections) |
+| `nrs-475/` | NRS chapter 475: Crimes and responsibilities concerning fires | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
+| `nrs-477/` | NRS chapter 477: State fire marshal | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
+| `nrs-480/` | NRS chapter 480: Administration of laws relating to public safety | 1 | Oldest version available, dated 2026-04-15 (60 sections) |
+| `nrs-481/` | NRS chapter 481: Administration of laws relating to motor vehicles | 1 | Oldest version available, dated 2026-09-09 (35 sections) |
+| `nrs-481a/` | NRS chapter 481A: Transportation on highways (multistate agreement) | 1 | Oldest version available, dated 2026-04-15 (2 sections) |
+| `nrs-482/` | NRS chapter 482: Motor vehicles and trailers: licensing, registration, sales and leases | 1 | Oldest version available, dated 2026-04-15 (500 sections) |
+| `nrs-482a/` | NRS chapter 482A: Autonomous vehicles | 1 | Oldest version available, dated 2026-04-15 (20 sections) |
+| `nrs-482b/` | NRS chapter 482B: Alternative electronic transportation systems | 1 | Oldest version available, dated 2024-06-29 (9 sections) |
+| `nrs-482c/` | NRS chapter 482C: Peer-to-peer car sharing programs | 1 | Oldest version available, dated 2024-06-29 (34 sections) |
+| `nrs-483/` | NRS chapter 483: Drivers' licenses; driving schools and driving instructors | 1 | Oldest version available, dated 2026-04-15 (215 sections) |
+| `nrs-484a/` | NRS chapter 484A: Traffic laws generally | 1 | Oldest version available, dated 2026-04-15 (128 sections) |
+| `nrs-484b/` | NRS chapter 484B: Rules of the road | 1 | Oldest version available, dated 2026-09-09 (198 sections) |
+| `nrs-484c/` | NRS chapter 484C: Driving under the influence of alcohol or a prohibited substance | 1 | Oldest version available, dated 2026-04-15 (73 sections) |
+| `nrs-484d/` | NRS chapter 484D: Equipment, inspections and size, weight and load of vehicles | 1 | Oldest version available, dated 2026-04-15 (124 sections) |
+| `nrs-484e/` | NRS chapter 484E: Crashes and reports of crashes | 1 | Oldest version available, dated 2026-04-15 (13 sections) |
+| `nrs-485/` | NRS chapter 485: Motor vehicles: insurance and financial responsibility | 1 | Oldest version available, dated 2026-04-15 (74 sections) |
+| `nrs-486/` | NRS chapter 486: Motorcycles and similar vehicles | 1 | Oldest version available, dated 2026-04-15 (50 sections) |
+| `nrs-487/` | NRS chapter 487: Repair, removal and disposal of vehicles | 1 | Oldest version available, dated 2026-04-15 (149 sections) |
+| `nrs-488/` | NRS chapter 488: Watercraft | 1 | Oldest version available, dated 2026-04-15 (93 sections) |
+| `nrs-489/` | NRS chapter 489: Manufactured homes; mobile homes and similar vehicles; factory-built housing | 1 | Oldest version available, dated 2026-09-09 (149 sections) |
+| `nrs-493/` | NRS chapter 493: General provisions | 1 | Oldest version available, dated 2026-04-15 (26 sections) |
+| `nrs-494/` | NRS chapter 494: State airports | 1 | Oldest version available, dated 2024-06-29 (16 sections) |
+| `nrs-495/` | NRS chapter 495: City and county airports; acquisition of property | 1 | Oldest version available, dated 2024-06-29 (22 sections) |
+| `nrs-496/` | NRS chapter 496: Municipal airports | 1 | Oldest version available, dated 2026-04-15 (31 sections) |
+| `nrs-497/` | NRS chapter 497: Zoning | 1 | Oldest version available, dated 2026-04-15 (29 sections) |
+| `nrs-498/` | NRS chapter 498: Skydiving businesses | 1 | Oldest version available, dated 2024-06-29 (11 sections) |
+| `nrs-501/` | NRS chapter 501: Administration and enforcement | 1 | Oldest version available, dated 2026-04-15 (100 sections) |
+| `nrs-502/` | NRS chapter 502: Licenses, tags and permits | 1 | Oldest version available, dated 2026-04-15 (68 sections) |
+| `nrs-503/` | NRS chapter 503: Hunting, fishing and trapping; miscellaneous protective measures | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
+| `nrs-504/` | NRS chapter 504: Management and propagation | 1 | Oldest version available, dated 2024-06-29 (24 sections) |
+| `nrs-505/` | NRS chapter 505: Fur dealers | 1 | Oldest version available, dated 2024-06-29 (6 sections) |
+| `nrs-506/` | NRS chapter 506: Wildlife violator compact | 1 | Oldest version available, dated 2024-06-29 (2 sections) |
+| `nrs-512/` | NRS chapter 512: Inspection and safety of mines | 1 | Oldest version available, dated 2026-04-15 (25 sections) |
+| `nrs-513/` | NRS chapter 513: Commission on mineral resources | 1 | Oldest version available, dated 2024-06-29 (15 sections) |
+| `nrs-514/` | NRS chapter 514: Bureau of mines and geology | 1 | Oldest version available, dated 2024-06-29 (12 sections) |
+| `nrs-514a/` | NRS chapter 514A: Mining oversight and accountability commission | 1 | Oldest version available, dated 2026-04-15 (11 sections) |
+| `nrs-517/` | NRS chapter 517: Mining claims, mill sites and tunnel rights | 1 | Oldest version available, dated 2024-06-29 (39 sections) |
+| `nrs-519/` | NRS chapter 519: Purchase, assaying and recovery of ores | 1 | Oldest version available, dated 2024-06-29 (13 sections) |
+| `nrs-520/` | NRS chapter 520: Mining corporations and partnerships | 1 | Oldest version available, dated 2022-05-01 (23 sections) |
+| `nrs-522/` | NRS chapter 522: Oil and gas | 1 | Oldest version available, dated 2026-04-15 (58 sections) |
+| `nrs-527/` | NRS chapter 527: Protection and preservation of timbered lands, trees and flora | 1 | Oldest version available, dated 2026-04-15 (38 sections) |
+| `nrs-528/` | NRS chapter 528: Forest practice and reforestation | 1 | Oldest version available, dated 2024-06-29 (64 sections) |
+| `nrs-533/` | NRS chapter 533: Adjudication of vested water rights; appropriation of public waters | 1 | Oldest version available, dated 2026-04-15 (151 sections) |
+| `nrs-534/` | NRS chapter 534: Underground water and wells | 1 | Oldest version available, dated 2026-04-15 (61 sections) |
+| `nrs-534a/` | NRS chapter 534A: Geothermal resources | 1 | Oldest version available, dated 2024-06-29 (8 sections) |
+| `nrs-534b/` | NRS chapter 534B: Dissolved mineral resources | 1 | Oldest version available, dated 2026-04-15 (13 sections) |
+| `nrs-535/` | NRS chapter 535: Dams and other obstructions | 1 | Oldest version available, dated 2026-04-15 (16 sections) |
+| `nrs-536/` | NRS chapter 536: Ditches, canals, flumes and other conduits | 1 | Oldest version available, dated 2026-04-15 (15 sections) |
+| `nrs-537/` | NRS chapter 537: Navigable waters | 1 | Oldest version available, dated 2026-04-15 (3 sections) |
+| `nrs-538/` | NRS chapter 538: Interstate waters, compacts and commissions | 1 | Oldest version available, dated 2026-04-15 (50 sections) |
+| `nrs-539/` | NRS chapter 539: Irrigation districts | 1 | Oldest version available, dated 2026-04-15 (327 sections) |
+| `nrs-540/` | NRS chapter 540: Planning and development of water resources | 1 | Oldest version available, dated 2024-06-29 (15 sections) |
+| `nrs-540a/` | NRS chapter 540A: Regional planning and management | 1 | Oldest version available, dated 2024-06-29 (15 sections) |
+| `nrs-541/` | NRS chapter 541: Water conservancy districts | 1 | Oldest version available, dated 2026-04-15 (45 sections) |
+| `nrs-543/` | NRS chapter 543: Control of floods | 1 | Oldest version available, dated 2026-04-15 (95 sections) |
+| `nrs-544/` | NRS chapter 544: Modification of weather | 1 | Oldest version available, dated 2026-04-15 (29 sections) |
+| `nrs-547/` | NRS chapter 547: Agricultural districts and associations | 1 | Oldest version available, dated 2026-04-15 (17 sections) |
+| `nrs-548/` | NRS chapter 548: Conservation | 1 | Oldest version available, dated 2026-04-15 (120 sections) |
+| `nrs-549/` | NRS chapter 549: Extension work in agriculture, home economics and rural welfare | 1 | Oldest version available, dated 2024-06-29 (8 sections) |
+| `nrs-550/` | NRS chapter 550: State 4-h camp | 1 | Oldest version available, dated 2026-04-15 (11 sections) |
+| `nrs-551/` | NRS chapter 551: Fairs and exhibits | 1 | Oldest version available, dated 2026-09-09 (8 sections) |
+| `nrs-552/` | NRS chapter 552: Bees and apiaries | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-553/` | NRS chapter 553: Demonstration farms and plots | 1 | Oldest version available, dated 2024-06-29 (9 sections) |
+| `nrs-554/` | NRS chapter 554: Quarantines of agricultural commodities | 1 | Oldest version available, dated 2024-06-29 (28 sections) |
+| `nrs-555/` | NRS chapter 555: Control of insects, pests and noxious weeds | 1 | Oldest version available, dated 2026-04-15 (129 sections) |
+| `nrs-556/` | NRS chapter 556: Garlic and onions | 1 | Oldest version available, dated 2026-04-15 (8 sections) |
+| `nrs-557/` | NRS chapter 557: Hemp | 1 | Oldest version available, dated 2026-04-15 (23 sections) |
+| `nrs-561/` | NRS chapter 561: State department of agriculture | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
+| `nrs-562/` | NRS chapter 562: Sheep | 1 | Oldest version available, dated 2024-06-29 (31 sections) |
+| `nrs-563/` | NRS chapter 563: Promotion of livestock | 1 | Oldest version available, dated 2026-04-15 (26 sections) |
+| `nrs-564/` | NRS chapter 564: Brands and marks | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
+| `nrs-565/` | NRS chapter 565: Inspection of brands | 1 | Oldest version available, dated 2026-04-15 (16 sections) |
+| `nrs-566/` | NRS chapter 566: Inspection and possession of hides and carcasses | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
+| `nrs-567/` | NRS chapter 567: Noxious and predatory animals; property-destroying birds | 1 | Oldest version available, dated 2022-05-01 (18 sections) |
+| `nrs-568/` | NRS chapter 568: Grazing and ranging | 1 | Oldest version available, dated 2024-06-29 (35 sections) |
+| `nrs-569/` | NRS chapter 569: Estrays and livestock | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-571/` | NRS chapter 571: Diseased animals | 1 | Oldest version available, dated 2026-04-15 (32 sections) |
+| `nrs-573/` | NRS chapter 573: Public sales of livestock | 1 | Oldest version available, dated 2024-06-29 (35 sections) |
+| `nrs-574/` | NRS chapter 574: Cruelty to animals: prevention and penalties | 1 | Oldest version available, dated 2026-04-15 (82 sections) |
+| `nrs-574a/` | NRS chapter 574A: Dangerous wild animals | 1 | Oldest version available, dated 2024-06-29 (11 sections) |
+| `nrs-575/` | NRS chapter 575: Miscellaneous provisions; collection of taxes | 1 | Oldest version available, dated 2024-06-29 (20 sections) |
+| `nrs-576/` | NRS chapter 576: Livestock and farm products: dealers, brokers, commission merchants, cash buyers and agents; alternative livestock | 1 | Oldest version available, dated 2026-04-15 (50 sections) |
+| `nrs-577/` | NRS chapter 577: Animal remedies, veterinary biologics and pharmaceuticals | 1 | Oldest version available, dated 2022-05-01 (7 sections) |
+| `nrs-580/` | NRS chapter 580: Food establishments | 1 | Oldest version available, dated 2026-04-15 (43 sections) |
+| `nrs-581/` | NRS chapter 581: Weights and measures | 1 | Oldest version available, dated 2024-06-29 (43 sections) |
+| `nrs-582/` | NRS chapter 582: Public weighmasters | 1 | Oldest version available, dated 2024-06-29 (30 sections) |
+| `nrs-583/` | NRS chapter 583: Meat, fish, produce, poultry and eggs | 1 | Oldest version available, dated 2026-09-09 (117 sections) |
+| `nrs-584/` | NRS chapter 584: Dairy products | 1 | Oldest version available, dated 2026-04-15 (111 sections) |
+| `nrs-585/` | NRS chapter 585: Food, drugs and cosmetics: adulteration; labels; brands | 1 | Oldest version available, dated 2024-06-29 (70 sections) |
+| `nrs-586/` | NRS chapter 586: Nevada pesticides act | 1 | Oldest version available, dated 2026-04-15 (61 sections) |
+| `nrs-587/` | NRS chapter 587: Agricultural products and seeds | 1 | Oldest version available, dated 2026-04-15 (157 sections) |
+| `nrs-588/` | NRS chapter 588: Commercial fertilizers and agricultural minerals | 1 | Oldest version available, dated 2024-06-29 (40 sections) |
+| `nrs-590/` | NRS chapter 590: Motor vehicle fuel, petroleum products and antifreeze | 1 | Oldest version available, dated 2026-04-15 (81 sections) |
+| `nrs-597/` | NRS chapter 597: Miscellaneous trade regulations and prohibited acts | 1 | Oldest version available, dated 2026-04-15 (272 sections) |
+| `nrs-598/` | NRS chapter 598: Deceptive trade practices | 1 | Oldest version available, dated 2026-04-15 (273 sections) |
+| `nrs-598a/` | NRS chapter 598A: Unfair trade practices | 1 | Oldest version available, dated 2026-04-15 (43 sections) |
+| `nrs-598b/` | NRS chapter 598B: Equal opportunity for credit | 1 | Oldest version available, dated 2024-06-29 (21 sections) |
+| `nrs-598c/` | NRS chapter 598C: Consumer reporting | 1 | Oldest version available, dated 2024-06-29 (31 sections) |
+| `nrs-598d/` | NRS chapter 598D: Unfair lending practices | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
+| `nrs-599a/` | NRS chapter 599A: Solicitation to purchase land | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
+| `nrs-599b/` | NRS chapter 599B: Solicitation by telephone | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-600/` | NRS chapter 600: Trademarks, trade names and service marks | 1 | Oldest version available, dated 2026-04-15 (46 sections) |
+| `nrs-600a/` | NRS chapter 600A: Trade secrets (uniform act) | 1 | Oldest version available, dated 2026-04-15 (12 sections) |
+| `nrs-601/` | NRS chapter 601: Insignia and names of organizations | 1 | Oldest version available, dated 2026-04-15 (6 sections) |
+| `nrs-602/` | NRS chapter 602: Doing business under assumed or fictitious name | 1 | Oldest version available, dated 2024-06-29 (13 sections) |
+| `nrs-603/` | NRS chapter 603: Computers | 1 | Oldest version available, dated 2026-04-15 (17 sections) |
+| `nrs-603a/` | NRS chapter 603A: Security and privacy of personal information | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
+| `nrs-604a/` | NRS chapter 604A: Deferred deposit loans, high-interest loans, title loans and check-cashing services | 1 | Oldest version available, dated 2026-04-15 (176 sections) |
+| `nrs-604b/` | NRS chapter 604B: Refund anticipation loans | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
+| `nrs-604c/` | NRS chapter 604C: Consumer litigation funding | 1 | Oldest version available, dated 2023-01-25 (58 sections) |
+| `nrs-604d/` | NRS chapter 604D: Earned wage access services | 1 | Oldest version available, dated 2026-04-15 (44 sections) |
+| `nrs-606/` | NRS chapter 606: Directory of newly hired employees | 1 | Oldest version available, dated 2022-05-02 (9 sections) |
+| `nrs-607/` | NRS chapter 607: Labor commissioner | 1 | Oldest version available, dated 2026-04-15 (32 sections) |
+| `nrs-608/` | NRS chapter 608: Compensation, wages and hours | 1 | Oldest version available, dated 2026-09-09 (91 sections) |
+| `nrs-609/` | NRS chapter 609: Employment of minors | 1 | Oldest version available, dated 2024-06-29 (28 sections) |
+| `nrs-610/` | NRS chapter 610: Apprenticeships | 1 | Oldest version available, dated 2026-04-15 (25 sections) |
+| `nrs-611/` | NRS chapter 611: Employment agencies and offices | 1 | Oldest version available, dated 2024-06-29 (49 sections) |
+| `nrs-612/` | NRS chapter 612: Unemployment compensation | 1 | Oldest version available, dated 2026-04-15 (213 sections) |
+| `nrs-613/` | NRS chapter 613: Employment practices | 1 | Oldest version available, dated 2026-09-09 (97 sections) |
+| `nrs-614/` | NRS chapter 614: Organized labor and labor disputes | 1 | Oldest version available, dated 2024-06-29 (18 sections) |
+| `nrs-615/` | NRS chapter 615: Vocational rehabilitation | 1 | Oldest version available, dated 2024-06-29 (31 sections) |
+| `nrs-616a/` | NRS chapter 616A: Industrial insurance: administration | 1 | Oldest version available, dated 2026-04-15 (110 sections) |
+| `nrs-616b/` | NRS chapter 616B: Industrial insurance: insurers; liability for provision of coverage | 1 | Oldest version available, dated 2026-04-15 (152 sections) |
+| `nrs-616c/` | NRS chapter 616C: Industrial insurance: benefits for injuries or death | 1 | Oldest version available, dated 2026-04-15 (151 sections) |
+| `nrs-616d/` | NRS chapter 616D: Industrial insurance: prohibited acts; penalties; prosecution | 1 | Oldest version available, dated 2026-04-15 (47 sections) |
+| `nrs-617/` | NRS chapter 617: Occupational diseases | 1 | Oldest version available, dated 2026-04-15 (80 sections) |
+| `nrs-618/` | NRS chapter 618: Occupational safety and health | 1 | Oldest version available, dated 2026-04-15 (205 sections) |
+| `nrs-622/` | NRS chapter 622: General provisions governing regulatory bodies | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-622a/` | NRS chapter 622A: Administrative procedure before certain regulatory bodies | 1 | Oldest version available, dated 2024-06-29 (27 sections) |
+| `nrs-623/` | NRS chapter 623: Architects, interior designers and residential designers | 1 | Oldest version available, dated 2026-04-15 (65 sections) |
+| `nrs-623a/` | NRS chapter 623A: Landscape architects | 1 | Oldest version available, dated 2026-04-15 (56 sections) |
+| `nrs-624/` | NRS chapter 624: Contractors | 1 | Oldest version available, dated 2026-04-15 (167 sections) |
+| `nrs-625/` | NRS chapter 625: Professional engineers and land surveyors | 1 | Oldest version available, dated 2026-04-15 (76 sections) |
+| `nrs-625a/` | NRS chapter 625A: Environmental health specialists | 1 | Oldest version available, dated 2026-04-15 (37 sections) |
+| `nrs-627/` | NRS chapter 627: Construction controls | 1 | Oldest version available, dated 2026-04-15 (21 sections) |
+| `nrs-628/` | NRS chapter 628: Accountants | 1 | Oldest version available, dated 2026-04-15 (72 sections) |
+| `nrs-628a/` | NRS chapter 628A: Financial planners | 1 | Oldest version available, dated 2024-06-29 (4 sections) |
+| `nrs-628b/` | NRS chapter 628B: Private professional guardians | 1 | Oldest version available, dated 2024-06-29 (55 sections) |
+| `nrs-629/` | NRS chapter 629: Healing arts generally | 1 | Oldest version available, dated 2026-04-15 (77 sections) |
+| `nrs-629a/` | NRS chapter 629A: Interstate medical licensure compact | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
+| `nrs-630/` | NRS chapter 630: Physicians, physician assistants, medical assistants, perfusionists, anesthesiologist assistants and practitioners of respiratory care | 1 | Oldest version available, dated 2026-04-15 (193 sections) |
+| `nrs-630a/` | NRS chapter 630A: Homeopathic physicians, advanced practitioners of homeopathy and homeopathic assistants | 1 | Oldest version available, dated 2026-04-15 (77 sections) |
+| `nrs-631/` | NRS chapter 631: Dentistry, dental hygiene, dental therapy and expanded function dental assistance | 1 | Oldest version available, dated 2026-04-15 (135 sections) |
+| `nrs-632/` | NRS chapter 632: Nursing | 1 | Oldest version available, dated 2026-09-09 (127 sections) |
+| `nrs-633/` | NRS chapter 633: Osteopathic medicine | 1 | Oldest version available, dated 2026-04-15 (160 sections) |
+| `nrs-634/` | NRS chapter 634: Chiropractic physicians and chiropractic assistants | 1 | Oldest version available, dated 2026-04-15 (66 sections) |
+| `nrs-634a/` | NRS chapter 634A: Doctors of oriental medicine | 1 | Oldest version available, dated 2026-04-15 (33 sections) |
+| `nrs-634b/` | NRS chapter 634B: Naprapaths | 1 | Oldest version available, dated 2026-04-15 (27 sections) |
+| `nrs-635/` | NRS chapter 635: Podiatric physicians and podiatry hygienists | 1 | Oldest version available, dated 2026-04-15 (43 sections) |
+| `nrs-636/` | NRS chapter 636: Optometry | 1 | Oldest version available, dated 2026-04-15 (118 sections) |
+| `nrs-637/` | NRS chapter 637: Dispensing opticians | 1 | Oldest version available, dated 2026-04-15 (39 sections) |
+| `nrs-637b/` | NRS chapter 637B: Audiologists, speech-language pathologists and hearing aid specialists | 1 | Oldest version available, dated 2026-04-15 (69 sections) |
+| `nrs-638/` | NRS chapter 638: Veterinary medicine; euthanasia technicians | 1 | Oldest version available, dated 2026-04-15 (80 sections) |
+| `nrs-639/` | NRS chapter 639: Pharmacists and pharmacy | 1 | Oldest version available, dated 2026-04-15 (258 sections) |
+| `nrs-640/` | NRS chapter 640: Physical therapists, physical therapist assistants and physical therapist technicians | 1 | Oldest version available, dated 2026-04-15 (51 sections) |
+| `nrs-640a/` | NRS chapter 640A: Occupational therapists and occupational therapy assistants | 1 | Oldest version available, dated 2026-04-15 (32 sections) |
+| `nrs-640b/` | NRS chapter 640B: Athletic trainers | 1 | Oldest version available, dated 2026-04-15 (53 sections) |
+| `nrs-640c/` | NRS chapter 640C: Massage therapy | 1 | Oldest version available, dated 2026-04-15 (57 sections) |
+| `nrs-640d/` | NRS chapter 640D: Music therapists | 1 | Oldest version available, dated 2026-04-15 (25 sections) |
+| `nrs-640e/` | NRS chapter 640E: Dietitians | 1 | Oldest version available, dated 2026-04-15 (37 sections) |
+| `nrs-641/` | NRS chapter 641: Psychologists and behavioral health and wellness practitioners | 1 | Oldest version available, dated 2026-04-15 (84 sections) |
+| `nrs-641a/` | NRS chapter 641A: Marriage and family therapists and clinical professional counselors | 1 | Oldest version available, dated 2026-04-15 (70 sections) |
+| `nrs-641b/` | NRS chapter 641B: Social workers | 1 | Oldest version available, dated 2026-04-15 (50 sections) |
+| `nrs-641c/` | NRS chapter 641C: Alcohol, drug and gambling counselors | 1 | Oldest version available, dated 2026-09-09 (67 sections) |
+| `nrs-641d/` | NRS chapter 641D: Applied behavior analysis | 1 | Oldest version available, dated 2026-09-09 (53 sections) |
+| `nrs-642/` | NRS chapter 642: Funeral directors, funeral arrangers and embalmers; operators of funeral establishments, direct cremation facilities, cemeteries and crematories | 1 | Oldest version available, dated 2026-04-15 (101 sections) |
+| `nrs-643/` | NRS chapter 643: Barbers and barbering | 1 | Oldest version available, dated 2026-04-15 (51 sections) |
+| `nrs-644a/` | NRS chapter 644A: Cosmetology | 1 | Oldest version available, dated 2026-04-15 (143 sections) |
+| `nrs-645/` | NRS chapter 645: Real estate brokers and salespersons | 1 | Oldest version available, dated 2026-04-15 (182 sections) |
+| `nrs-645a/` | NRS chapter 645A: Escrow agencies and agents | 1 | Oldest version available, dated 2026-04-15 (56 sections) |
+| `nrs-645b/` | NRS chapter 645B: Mortgage companies and mortgage loan originators | 1 | Oldest version available, dated 2026-04-15 (126 sections) |
+| `nrs-645c/` | NRS chapter 645C: Appraisers of real estate and appraisal management companies | 1 | Oldest version available, dated 2026-04-15 (96 sections) |
+| `nrs-645d/` | NRS chapter 645D: Inspectors of structures and energy auditors | 1 | Oldest version available, dated 2026-04-15 (41 sections) |
+| `nrs-645f/` | NRS chapter 645F: Mortgage lending and related professions | 1 | Oldest version available, dated 2024-06-29 (57 sections) |
+| `nrs-645g/` | NRS chapter 645G: Exchange facilitators | 1 | Oldest version available, dated 2026-04-15 (52 sections) |
+| `nrs-645h/` | NRS chapter 645H: Asset management companies and asset managers | 1 | Oldest version available, dated 2024-06-29 (46 sections) |
+| `nrs-646/` | NRS chapter 646: Pawnbrokers | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
+| `nrs-647/` | – | 1 | Oldest version available, dated 2026-04-15 (46 sections) |
+| `nrs-648/` | NRS chapter 648: Private investigators, private patrol officers, polygraphic examiners, process servers, repossessors, dog handlers and registered employees | 1 | Oldest version available, dated 2026-04-15 (78 sections) |
 
-Chapters added on 2026-11-10 (427 chapters, 21940 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
+Chapters added on 2026-11-10 (696 chapters, 40197 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
 
 ## What it does not show
 

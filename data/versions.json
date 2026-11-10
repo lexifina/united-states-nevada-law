@@ -6048,6 +6048,3772 @@
      "sha256": "1aa0da3e115f16e03d583b0dd09b643a5a5e44789c534ffecab89ae2af549e15"
     }
    ]
+  },
+  {
+   "slug": "nrs-391a",
+   "short": "NRS 391A",
+   "title": "Nevada Revised Statutes, chapter 391A: Training, professional development and incentives",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-391A.html",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 63,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-391A.html",
+     "sha256": "2301d296b47a11213d4904d0f945aa4426dcfc6c3d4652a2d479a1e08740bf99"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-391b",
+   "short": "NRS 391B",
+   "title": "Nevada Revised Statutes, chapter 391B: Interstate teacher mobility compact",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-391B.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 1,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-391B.html",
+     "sha256": "55a7a59560ea6d3cc82a00e41c755aa0b50a528df0853e5b93062e0e9176a26d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-392",
+   "short": "NRS 392",
+   "title": "Nevada Revised Statutes, chapter 392: Pupils",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-392.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 151,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-392.html",
+     "sha256": "779bcd61da5fcbdda5031847f13da2588ae5f2b1038a6033268442dfc514ddd0"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-393",
+   "short": "NRS 393",
+   "title": "Nevada Revised Statutes, chapter 393: School property",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-393.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 64,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-393.html",
+     "sha256": "546619a56a4729040b2abe7edb85dcae317a9448409ed8c378ad6ad7f892ba25"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-394",
+   "short": "NRS 394",
+   "title": "Nevada Revised Statutes, chapter 394: Private educational institutions and establishments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-394.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 195,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-394.html",
+     "sha256": "21822d64431b9bc43331d5c5a7acb549b06415e013dfca791abcb5e38b8414e7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-397",
+   "short": "NRS 397",
+   "title": "Nevada Revised Statutes, chapter 397: Western regional education compact",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-397.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 23,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-397.html",
+     "sha256": "71a582d931a3611b7f9ac5de2207182e690e6db7881dac1b0640d535b359cfbe"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-398",
+   "short": "NRS 398",
+   "title": "Nevada Revised Statutes, chapter 398: Intercollegiate athletics",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-398.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 22,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-398.html",
+     "sha256": "af72a04ca0ee2d9bbd265aa0c8a4166f506c83806d1725cb28092aac40101e03"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-398a",
+   "short": "NRS 398A",
+   "title": "Nevada Revised Statutes, chapter 398A: Revised uniform athlete agents act",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-398A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 41,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-398A.html",
+     "sha256": "69b8c5e57d660a1e7010fc835872e875c38cad4ea5daf4f35f24afd56915de3c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-399",
+   "short": "NRS 399",
+   "title": "Nevada Revised Statutes, chapter 399: Interstate compact for education",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-399.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 1,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-399.html",
+     "sha256": "42432bb9bb31ac18c989cd05508b4de9451f44d806e2b6d99b091ee89c0c386f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-400",
+   "short": "NRS 400",
+   "title": "Nevada Revised Statutes, chapter 400: P-20w research data system advisory committee",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-400.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 6,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-400.html",
+     "sha256": "e4121f3a4e6e3fea43f64f06f10d987026465262aa58ec0af96025e2bcdf37d5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-403",
+   "short": "NRS 403",
+   "title": "Nevada Revised Statutes, chapter 403: County roads, highways and bridges",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-403.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 46,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-403.html",
+     "sha256": "9b9db8df588b587e2588b3910f4229b19a66d18d6994a1ce029cd794f5e3d02d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-404",
+   "short": "NRS 404",
+   "title": "Nevada Revised Statutes, chapter 404: Road districts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-404.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-404.html",
+     "sha256": "ce65734589238379a24d3729f0f37abd225a74040391d65edf0e75f3addbbfa7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-405",
+   "short": "NRS 405",
+   "title": "Nevada Revised Statutes, chapter 405: Control and preservation of public highways",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-405.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 32,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-405.html",
+     "sha256": "b04be9bbf6b5b12d16198c9971383f40f68f8a98953f7794929418e7b1cd4502"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-407",
+   "short": "NRS 407",
+   "title": "Nevada Revised Statutes, chapter 407: State parks and monuments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-407.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 39,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-407.html",
+     "sha256": "912546d2a114464dfe82a9baa68e48c58bcfbe3a2353d2388c46be36677f37e7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-407a",
+   "short": "NRS 407A",
+   "title": "Nevada Revised Statutes, chapter 407A: Outdoor recreation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-407A.html",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 37,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-407A.html",
+     "sha256": "2ea9e8d44a9f2ccb035fd4b0ceaec415da8a94303a58716310c9fa965d630daa"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-408",
+   "short": "NRS 408",
+   "title": "Nevada Revised Statutes, chapter 408: Highways, roads and transportation facilities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-408.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 248,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-408.html",
+     "sha256": "28b53424405678fb47b4960123da47c4799e36d0f6df74cf392dcc3b204f1c01"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-410",
+   "short": "NRS 410",
+   "title": "Nevada Revised Statutes, chapter 410: Beautification of highways",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-410.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 43,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-410.html",
+     "sha256": "914236290074addcad9f4f17512393138aa3bc22673a7bd03cf3cb79631cf7e1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-413",
+   "short": "NRS 413",
+   "title": "Nevada Revised Statutes, chapter 413: Civil air patrol",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-413.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 3,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-413.html",
+     "sha256": "5adaf7f43146780c948cbfd8820fa752babac014c1dce1b1c76c42e62d9e11b9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-414",
+   "short": "NRS 414",
+   "title": "Nevada Revised Statutes, chapter 414: Emergency management",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-414.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 66,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-414.html",
+     "sha256": "304213ec68dbe84114764d37d474899314fcdba574d629c8eff0b48b520fd010"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-414a",
+   "short": "NRS 414A",
+   "title": "Nevada Revised Statutes, chapter 414A: Nevada intrastate mutual aid system",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-414A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 25,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-414A.html",
+     "sha256": "244514a0820e7d861d2ead31b0d709023e1ca4d1726d22eaa142c6798878fa76"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-415",
+   "short": "NRS 415",
+   "title": "Nevada Revised Statutes, chapter 415: Emergency management assistance compact",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-415.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 1,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-415.html",
+     "sha256": "aa0f7f7b68357b058ee4f1f57b8a33d94a291b6fcca28b9a44306772757a862c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-415a",
+   "short": "NRS 415A",
+   "title": "Nevada Revised Statutes, chapter 415A: Emergency volunteer health practitioners (uniform act)",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-415A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 29,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-415A.html",
+     "sha256": "1961bd8356f140f055b17fd637ef53b3f60f31bd8027e6ba743660f16bd2da19"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-416",
+   "short": "NRS 416",
+   "title": "Nevada Revised Statutes, chapter 416: Emergencies concerning water or energy",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-416.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 10,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-416.html",
+     "sha256": "b93e37b963805f0e1525e49242834655ae25aef5a227694b6b9f0d963a474182"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-417",
+   "short": "NRS 417",
+   "title": "Nevada Revised Statutes, chapter 417: Veterans' services and honorary recognition related to military service",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-417.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 52,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-417.html",
+     "sha256": "2c643f70677d02ab7b4dff9fd5182746ea1383e8713efe7b86c6b50a5ab64c54"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-418",
+   "short": "NRS 418",
+   "title": "Nevada Revised Statutes, chapter 418: Reemployment of veterans",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-418.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 2,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-418.html",
+     "sha256": "cff78f595e25b24d896cb6f1d8624c35df48a4d90d2645e2a95d05b11f7d6245"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-419",
+   "short": "NRS 419",
+   "title": "Nevada Revised Statutes, chapter 419: Recording of certificates of honorable discharge",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-419.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 1,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-419.html",
+     "sha256": "b6b62fc70280f94bfe6896e713fefc6c7f6dbdaf5e889944af3a86967746c3d9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-422",
+   "short": "NRS 422",
+   "title": "Nevada Revised Statutes, chapter 422: Medicaid and other health care programs",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-422.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 247,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-422.html",
+     "sha256": "515818ef1bc1df4aa82791606b92d3a314f9b8d5a80c13c24c066c33cc4c7b4b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-422a",
+   "short": "NRS 422A",
+   "title": "Nevada Revised Statutes, chapter 422A: Public assistance and social services",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-422A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 153,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-422A.html",
+     "sha256": "86ca944326c28e9e53822e04ad08aa6fbec4b98dcc6f3b69ec5630cf92e05e7f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-424",
+   "short": "NRS 424",
+   "title": "Nevada Revised Statutes, chapter 424: Foster homes for children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-424.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 84,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-424.html",
+     "sha256": "efb66b3641e66f0e059ca2f045b9bd7eaed4c53de4ea9c6da0c01cab84a89d9c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-425",
+   "short": "NRS 425",
+   "title": "Nevada Revised Statutes, chapter 425: Support of dependent children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-425.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 74,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-425.html",
+     "sha256": "a62b3c3e589ecc5fe93497e0b449541e2a92db222a5289f161450a932aee0815"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-426",
+   "short": "NRS 426",
+   "title": "Nevada Revised Statutes, chapter 426: Persons with disabilities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-426.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 72,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-426.html",
+     "sha256": "55fe1c6ab37fb21b630fddfb0e0d248397f1283ead288404c450ba7af1ab57e3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-427a",
+   "short": "NRS 427A",
+   "title": "Nevada Revised Statutes, chapter 427A: Services to aging persons and persons with disabilities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-427A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 141,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-427A.html",
+     "sha256": "038cdeeeceed7ee68a4cede4c69bd0885698f11da44232ec8e8804aaf7b67df4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-428",
+   "short": "NRS 428",
+   "title": "Nevada Revised Statutes, chapter 428: Indigent persons",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-428.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 38,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-428.html",
+     "sha256": "4eab68efc139180185522899ce6e56f22699f351f5768e1dce93a695f23f2e34"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-430a",
+   "short": "NRS 430A",
+   "title": "Nevada Revised Statutes, chapter 430A: Family resource centers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-430A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 19,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-430A.html",
+     "sha256": "9a5a56cb31fba4ba073e8551e3bc92a79a014ee457d606c1071ab458d581ef0a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-432",
+   "short": "NRS 432",
+   "title": "Nevada Revised Statutes, chapter 432: Public services for children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-432.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 91,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-432.html",
+     "sha256": "b1f8523b73c9d2f676f535291e408f2eb094354bb7ccdb93190f5c91b938338d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-432a",
+   "short": "NRS 432A",
+   "title": "Nevada Revised Statutes, chapter 432A: Services and facilities for care of children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-432A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 105,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-432A.html",
+     "sha256": "4b7e645c2cdc4baebe3a0d060f6eddfc196c607f7491b1e6a4c08304df5d0b1c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-432b",
+   "short": "NRS 432B",
+   "title": "Nevada Revised Statutes, chapter 432B: Protection of children from abuse and neglect",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-432B.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 219,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-432B.html",
+     "sha256": "2a31b6074db2edbe079ce74de85075a5f9995577196bd16b3816a0e7e9530be3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-432c",
+   "short": "NRS 432C",
+   "title": "Nevada Revised Statutes, chapter 432C: Protection of children from sexual exploitation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-432C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-432C.html",
+     "sha256": "94e7ed251eec883c0d04180973a6eca8776f2d63144d3d78c895591792d5960f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-433",
+   "short": "NRS 433",
+   "title": "Nevada Revised Statutes, chapter 433: General provisions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-433.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 155,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-433.html",
+     "sha256": "4667d188c874235de4bdfde18116d754e49a517dcfd62082a36a77d16669e421"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-433a",
+   "short": "NRS 433A",
+   "title": "Nevada Revised Statutes, chapter 433A: Admission to mental health facilities or assisted outpatient treatment; hospitalization",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-433A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 93,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-433A.html",
+     "sha256": "89bc11d813d50f6d99ff709c3c22e91f709929a0d1c06ed403ab5ca6eca0fb13"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-433b",
+   "short": "NRS 433B",
+   "title": "Nevada Revised Statutes, chapter 433B: Additional provisions relating to children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-433B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 49,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-433B.html",
+     "sha256": "a2a5ef518e4636697a8792f514bd530b58aa39cf3c95a1e3d26249bbea72d42b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-433c",
+   "short": "NRS 433C",
+   "title": "Nevada Revised Statutes, chapter 433C: Community mental health programs",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-433C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 25,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-433C.html",
+     "sha256": "d0db427c9cc9b096f4c6e489999106160066c7e0ecbf1cccd43315b7b3939674"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-435",
+   "short": "NRS 435",
+   "title": "Nevada Revised Statutes, chapter 435: Persons with intellectual disabilities and developmental disabilities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-435.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 143,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-435.html",
+     "sha256": "e62790fa24522df09bf875a9c826fdac198fbb6c291f7415664c132196d88c8e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-439",
+   "short": "NRS 439",
+   "title": "Nevada Revised Statutes, chapter 439: Administration of public health",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-439.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 255,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-439.html",
+     "sha256": "716b8c6bdaa000b0b884673f555b45386a4c6030639c59b89d70d050a8962f93"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-439a",
+   "short": "NRS 439A",
+   "title": "Nevada Revised Statutes, chapter 439A: Planning for the provision of health care",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-439A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 70,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-439A.html",
+     "sha256": "7f0e45d19be77ddbad4bfe95d2f1f95dd5c745c76111e6b862e79f25b3762f25"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-439b",
+   "short": "NRS 439B",
+   "title": "Nevada Revised Statutes, chapter 439B: Restraining costs of health care",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-439B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 127,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-439B.html",
+     "sha256": "77b99c7d68daa78e820700c093aba27c5b42716f77a322d47a987710c717b781"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-440",
+   "short": "NRS 440",
+   "title": "Nevada Revised Statutes, chapter 440: Vital statistics",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-440.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 105,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-440.html",
+     "sha256": "3cef3c3cb68b140e4cdeda84926a20cb9e37bf91084e9854a253f1f29a96da9f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-441a",
+   "short": "NRS 441A",
+   "title": "Nevada Revised Statutes, chapter 441A: Infectious diseases; reporting concerning communicable diseases, overdoses and attempted suicides",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-441A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 81,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-441A.html",
+     "sha256": "f08cfbc3ad70b1cdbc275c1946430b232c3b052ecb85369b02982be95c16c8f1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-442",
+   "short": "NRS 442",
+   "title": "Nevada Revised Statutes, chapter 442: Maternal and child health; abortion",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-442.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 106,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-442.html",
+     "sha256": "0af0b20d9c3ac9bd88572b847927520189354ae63573c261f5cf3ea2afd36657"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-444",
+   "short": "NRS 444",
+   "title": "Nevada Revised Statutes, chapter 444: Sanitation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-444.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 113,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-444.html",
+     "sha256": "c58f7e800c3f8126c597dc5cbf5afb020b16f2f422f50d6619d0497e2f3e7c5f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-444a",
+   "short": "NRS 444A",
+   "title": "Nevada Revised Statutes, chapter 444A: Programs for recycling",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-444A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 24,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-444A.html",
+     "sha256": "4d052652bc05d11d03ab1d521718ea893b5601864755fd7c7a2882f7181c391f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-445a",
+   "short": "NRS 445A",
+   "title": "Nevada Revised Statutes, chapter 445A: Water controls",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-445A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 200,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-445A.html",
+     "sha256": "1c517e2d7c2858987192aa92080ed70ed73c03598575a55db802e43f48849e68"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-445b",
+   "short": "NRS 445B",
+   "title": "Nevada Revised Statutes, chapter 445B: Air pollution",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-445B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 133,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-445B.html",
+     "sha256": "fcb37355fff37d4a8e9ec52a0f3d1bce1e8c87e1613978c399cf3b784856458c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-445c",
+   "short": "NRS 445C",
+   "title": "Nevada Revised Statutes, chapter 445C: Environmental requirements; cleanup of discharged petroleum",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-445C.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 39,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-445C.html",
+     "sha256": "e4c3c6cace7ab1a8c09b04eccb07d406d9c34d30ffdc124c46092e4178dd998b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-445d",
+   "short": "NRS 445D",
+   "title": "Nevada Revised Statutes, chapter 445D: Environmental covenants (uniform act)",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-445D.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 22,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-445D.html",
+     "sha256": "870befc8c02708109bd089eb33e22fa67b3479561a573e841f6d50fe7caf36e9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-446",
+   "short": "NRS 446",
+   "title": "Nevada Revised Statutes, chapter 446: Food establishments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-446.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 39,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-446.html",
+     "sha256": "5a5420e98f1b086f1e8714aa4ce182be61e28febf83ae6db0a1971f3d7c1a6d4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-447",
+   "short": "NRS 447",
+   "title": "Nevada Revised Statutes, chapter 447: Public accommodations",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-447.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-447.html",
+     "sha256": "f67638f8c5795242c110c92dc42999d1849a03908e5bd567d2d8b8ff104159cf"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-449",
+   "short": "NRS 449",
+   "title": "Nevada Revised Statutes, chapter 449: Medical facilities and other related entities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-449.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 272,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-449.html",
+     "sha256": "196ae627eafc3e9a7a67ef86927d80d99795cf34d779ef8481aaee0b0f086e58"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-449a",
+   "short": "NRS 449A",
+   "title": "Nevada Revised Statutes, chapter 449A: Care and rights of patients",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-449A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 180,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-449A.html",
+     "sha256": "b142cf7795f46020c31dad1e0da710115b4b91aa1982af6bd62aa2e1036c8677"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-449b",
+   "short": "NRS 449B",
+   "title": "Nevada Revised Statutes, chapter 449B: Agencies to provide personal care services and related entities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-449B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 89,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-449B.html",
+     "sha256": "eb3df125df1319482d47e8efdbfe64759a406b0d26ba4310e3b8cadb30967538"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-450",
+   "short": "NRS 450",
+   "title": "Nevada Revised Statutes, chapter 450: County hospitals and hospital districts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-450.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 93,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-450.html",
+     "sha256": "0a70c3e8dca19b052932d8e9371c672e08304448389e2f5bdf3b94185ef60cf8"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-450b",
+   "short": "NRS 450B",
+   "title": "Nevada Revised Statutes, chapter 450B: Emergency medical services",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-450B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 142,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-450B.html",
+     "sha256": "c5ebff95e63748d6bb6c540aa42950822010f44b053ccbd5f8dbc8fad5dfc8f8"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-451",
+   "short": "NRS 451",
+   "title": "Nevada Revised Statutes, chapter 451: Dead bodies",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-451.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 137,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-451.html",
+     "sha256": "0a2915678c35a12ca0638d634da23bf1c6e23a8f497e086775d3fe998145136a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-452",
+   "short": "NRS 452",
+   "title": "Nevada Revised Statutes, chapter 452: Cemeteries",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-452.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 73,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-452.html",
+     "sha256": "9b3837be78e1d729f205d6ce7feb8b92a4e6ff0b4bbd55341d1990f55f15dd2f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-453",
+   "short": "NRS 453",
+   "title": "Nevada Revised Statutes, chapter 453: Controlled substances",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-453.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 191,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-453.html",
+     "sha256": "1b3cb0eac55b2da4810f1b71e0714bdde6308208d9dfdf236a5643fbdcdb00d6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-453b",
+   "short": "NRS 453B",
+   "title": "Nevada Revised Statutes, chapter 453B: Hiv/aids drug donation program",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-453B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 12,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-453B.html",
+     "sha256": "f02b666a0ce911ff07d9ba94d3c1821a2cb8c423c4c5e0e9e3349682e90b6f3f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-453c",
+   "short": "NRS 453C",
+   "title": "Nevada Revised Statutes, chapter 453C: Good samaritan drug overdose act",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-453C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 12,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-453C.html",
+     "sha256": "f6f2f6d7aa507f45c228aab9c03abba1c7ad6955d26a2e0ced625f4c5350aff3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-454",
+   "short": "NRS 454",
+   "title": "Nevada Revised Statutes, chapter 454: Poisons; dangerous drugs and hypodermics",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-454.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 78,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-454.html",
+     "sha256": "8d28456115948c726280efe58baa61167eb56b877fde97e203b3ea3ca4008ee0"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-455",
+   "short": "NRS 455",
+   "title": "Nevada Revised Statutes, chapter 455: Excavations and high-voltage lines",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-455.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 46,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-455.html",
+     "sha256": "23d8d97f33f4395fcb48e7d8c9099eb88817343f5c1c293aa694d62832693169"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-455a",
+   "short": "NRS 455A",
+   "title": "Nevada Revised Statutes, chapter 455A: Safety of participants in outdoor sports",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-455A.html",
+   "versions": [
+    {
+     "from": "2024-12-09",
+     "units": 23,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-455A.html",
+     "sha256": "a1d301364152d27b43e478695fc76a39b8e0012365f9d423140ac59174744b58"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-455b",
+   "short": "NRS 455B",
+   "title": "Nevada Revised Statutes, chapter 455B: Recreational parks",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-455B.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 33,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-455B.html",
+     "sha256": "611df46b34ad1216cd4db3013abca4fcf1603d2fe2c218ee67c61dafaf16aa9b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-455c",
+   "short": "NRS 455C",
+   "title": "Nevada Revised Statutes, chapter 455C: Boilers, elevators and pressure vessels",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-455C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 21,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-455C.html",
+     "sha256": "3137cbccd5bf071c6caaeff97445c10f593816b3ea9ff31ac6ed9274f98e824b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-457",
+   "short": "NRS 457",
+   "title": "Nevada Revised Statutes, chapter 457: Cancer",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-457.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 37,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-457.html",
+     "sha256": "66032e14820389775a2839db0977c92fff632e46cec9cbe08bb56aa46a76b1f4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-458",
+   "short": "NRS 458",
+   "title": "Nevada Revised Statutes, chapter 458: Alcohol and other substance use disorders",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-458.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 38,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-458.html",
+     "sha256": "37f1c8d2c44db94370b75e2e8f34ed2d374651e9f06d2389d50b86c39eb85af5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-458a",
+   "short": "NRS 458A",
+   "title": "Nevada Revised Statutes, chapter 458A: Prevention and treatment of problem gambling",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-458A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 22,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-458A.html",
+     "sha256": "9b87d81aa8be7cdbd53d2804c4cde679b2910be25c92cd9ce85b4464f62c5e72"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-459",
+   "short": "NRS 459",
+   "title": "Nevada Revised Statutes, chapter 459: Hazardous materials",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-459.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 261,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-459.html",
+     "sha256": "a83ffed43344631e19ad209e48c6b30912285cc68b843331de15887abc7cc703"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-459a",
+   "short": "NRS 459A",
+   "title": "Nevada Revised Statutes, chapter 459A: Generators of electricity",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-459A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 5,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-459A.html",
+     "sha256": "67ce78ba40e51c6e6938c8a8a3922a34a5e6160d3b285c4cd6b0ebf991374e4d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-460",
+   "short": "NRS 460",
+   "title": "Nevada Revised Statutes, chapter 460: Human blood, blood products and body parts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-460.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 11,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-460.html",
+     "sha256": "880edbd5a14aa6898f67cc2a326bca54d78a7f5b85afb646bf5c94501c846d9b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-461",
+   "short": "NRS 461",
+   "title": "Nevada Revised Statutes, chapter 461: Manufactured buildings",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-461.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 33,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-461.html",
+     "sha256": "d402e3c7fa83c193021ce2f91f900e00294b325fe18665191bcd76e6f8e75602"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-461a",
+   "short": "NRS 461A",
+   "title": "Nevada Revised Statutes, chapter 461A: Mobile homes and parks",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-461A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 37,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-461A.html",
+     "sha256": "d65e1f7c4eab08ec9bb1063535a54a695c244795a12be40f9455af26b04de259"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-462",
+   "short": "NRS 462",
+   "title": "Nevada Revised Statutes, chapter 462: Lotteries and games",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-462.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-462.html",
+     "sha256": "702440bc46fd4d9666a2c28ada1ebc495d805591a140413462563bd703fa00d4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-463",
+   "short": "NRS 463",
+   "title": "Nevada Revised Statutes, chapter 463: Licensing and control of gaming",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-463.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 375,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-463.html",
+     "sha256": "97a6a695b5a14950655e2b6d2acaa701d83f7745aa1fa680e1e5933418505ff4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-463a",
+   "short": "NRS 463A",
+   "title": "Nevada Revised Statutes, chapter 463A: Gaming employees' labor organizations",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-463A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 26,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-463A.html",
+     "sha256": "07389574c53ba5650b8530fa6f6c80c2e215ac7654e3a0b8bcfdf6ff0e1cc3dd"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-463b",
+   "short": "NRS 463B",
+   "title": "Nevada Revised Statutes, chapter 463B: Supervision of certain gaming establishments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-463B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 28,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-463B.html",
+     "sha256": "6427a3c6fc28e78b74d414f2a2c4d652017971b08b3957fcab99b3376e355633"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-464",
+   "short": "NRS 464",
+   "title": "Nevada Revised Statutes, chapter 464: Pari-mutuel wagering",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-464.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 14,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-464.html",
+     "sha256": "e53679701b47e58f4fd45ee51ab91e62808f5d58a86e14c251075b3752d8d081"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-465",
+   "short": "NRS 465",
+   "title": "Nevada Revised Statutes, chapter 465: Crimes and liabilities concerning gaming",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-465.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-465.html",
+     "sha256": "84c08b484d3bfa8797ab965510343efeff44b343fccdaf44188ee52231de9a25"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-466",
+   "short": "NRS 466",
+   "title": "Nevada Revised Statutes, chapter 466: Horse racing",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-466.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 47,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-466.html",
+     "sha256": "beb10d3d813569686c1135cfc4d3e515fcc3648b19e2d9268cec7ceb0563d6ad"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-467",
+   "short": "NRS 467",
+   "title": "Nevada Revised Statutes, chapter 467: Unarmed combat",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-467.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 50,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-467.html",
+     "sha256": "92d0273bbec42b6a9f06de68122584e842279b309237e1dbbefa8b696ce3ed71"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-472",
+   "short": "NRS 472",
+   "title": "Nevada Revised Statutes, chapter 472: State forester firewarden",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-472.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 24,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-472.html",
+     "sha256": "7c325f2357641000f1b962186b6df6865376fb55f369ab3b8042ca067e31d933"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-474",
+   "short": "NRS 474",
+   "title": "Nevada Revised Statutes, chapter 474: County fire protection districts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-474.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 71,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-474.html",
+     "sha256": "444068ba2174ab81445b9b4e832a4ef4f8cac0d246f0a8f910be026f9b98728e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-475",
+   "short": "NRS 475",
+   "title": "Nevada Revised Statutes, chapter 475: Crimes and responsibilities concerning fires",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-475.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 19,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-475.html",
+     "sha256": "90b34eee3098799aea958ab8f6b6c58ed0b5b1e7ac9befa7a9a2e34c4be16e45"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-477",
+   "short": "NRS 477",
+   "title": "Nevada Revised Statutes, chapter 477: State fire marshal",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-477.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 62,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-477.html",
+     "sha256": "e4a8e34081e33a98caad8dabb826cd70c3b4c49f108ea39559d16f5f0836f39f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-480",
+   "short": "NRS 480",
+   "title": "Nevada Revised Statutes, chapter 480: Administration of laws relating to public safety",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-480.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 60,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-480.html",
+     "sha256": "d091e955adacfb73418841afdf2c17ad03325286833e900c42f320dfca919caa"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-481",
+   "short": "NRS 481",
+   "title": "Nevada Revised Statutes, chapter 481: Administration of laws relating to motor vehicles",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-481.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 35,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-481.html",
+     "sha256": "edaf6df71599374ef176dcc74777cac556759ea7cf1fa7aa9b988f5e6ac9f96d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-481a",
+   "short": "NRS 481A",
+   "title": "Nevada Revised Statutes, chapter 481A: Transportation on highways (multistate agreement)",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-481A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 2,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-481A.html",
+     "sha256": "6e3a4a884a1d8db33631dcf8a85a512f733fa865ea88dbc964d1ab772c1668c7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-482",
+   "short": "NRS 482",
+   "title": "Nevada Revised Statutes, chapter 482: Motor vehicles and trailers: licensing, registration, sales and leases",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-482.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 500,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-482.html",
+     "sha256": "e359b7996465800880bdee2d7e5f930672b3f268e1e7ad5c6cd2f2468ace11ae"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-482a",
+   "short": "NRS 482A",
+   "title": "Nevada Revised Statutes, chapter 482A: Autonomous vehicles",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-482A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 20,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-482A.html",
+     "sha256": "be84e3c93dc721d1f44bc2e211ae222894564d0578de717c10e9b8cc63918bcf"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-482b",
+   "short": "NRS 482B",
+   "title": "Nevada Revised Statutes, chapter 482B: Alternative electronic transportation systems",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-482B.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 9,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-482B.html",
+     "sha256": "9003f9a4747424b201d4ac40f9680fce62fd4b94fa09b9b1776e4a267963b7ce"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-482c",
+   "short": "NRS 482C",
+   "title": "Nevada Revised Statutes, chapter 482C: Peer-to-peer car sharing programs",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-482C.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 34,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-482C.html",
+     "sha256": "75ca3ed852f686ff02642408707b5e6bfd7de05512b96cb6d19f137145a790dc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-483",
+   "short": "NRS 483",
+   "title": "Nevada Revised Statutes, chapter 483: Drivers' licenses; driving schools and driving instructors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-483.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 215,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-483.html",
+     "sha256": "ad7cd8df5c35598cc91f15f2427a80ed5f3fa150e1ed5727bbd69ee8e1488485"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-484a",
+   "short": "NRS 484A",
+   "title": "Nevada Revised Statutes, chapter 484A: Traffic laws generally",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-484A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 128,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-484A.html",
+     "sha256": "2365d1ada1f7f8a03a258cff1eb585dbdbb7df3a4a9e37b38a0b46b031ca04eb"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-484b",
+   "short": "NRS 484B",
+   "title": "Nevada Revised Statutes, chapter 484B: Rules of the road",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-484B.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 198,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-484B.html",
+     "sha256": "7eae25c613e08e2e9e7118a665d3c4ddfa6943350b1b2fa29649645a148e49ed"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-484c",
+   "short": "NRS 484C",
+   "title": "Nevada Revised Statutes, chapter 484C: Driving under the influence of alcohol or a prohibited substance",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-484C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 73,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-484C.html",
+     "sha256": "af79eb76d1cfda1432c33f403fd210cad323a65e53e87a283fcf6265e250e785"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-484d",
+   "short": "NRS 484D",
+   "title": "Nevada Revised Statutes, chapter 484D: Equipment, inspections and size, weight and load of vehicles",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-484D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 124,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-484D.html",
+     "sha256": "73bfe761eb573f8c0da729f58365da28d131f56f1fb8d8afea74dd0fad6a60a2"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-484e",
+   "short": "NRS 484E",
+   "title": "Nevada Revised Statutes, chapter 484E: Crashes and reports of crashes",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-484E.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 13,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-484E.html",
+     "sha256": "3e9f5b80304df566d2e3969fff9e92b9ef08209266f73080a7726f9050ce0204"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-485",
+   "short": "NRS 485",
+   "title": "Nevada Revised Statutes, chapter 485: Motor vehicles: insurance and financial responsibility",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-485.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 74,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-485.html",
+     "sha256": "3215aa0f7525f5f5e2dfe9e9ee9b3614bc22e8382e585ba915db906a74c36744"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-486",
+   "short": "NRS 486",
+   "title": "Nevada Revised Statutes, chapter 486: Motorcycles and similar vehicles",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-486.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 50,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-486.html",
+     "sha256": "fba0a7757d557b2978b1afff7818712edc89389cac6fe5807f305b598926d6b3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-487",
+   "short": "NRS 487",
+   "title": "Nevada Revised Statutes, chapter 487: Repair, removal and disposal of vehicles",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-487.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 149,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-487.html",
+     "sha256": "670b3302f4101ec0aad2b1abb7197c94fc4e972746004b7e6774db1e9f5930b5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-488",
+   "short": "NRS 488",
+   "title": "Nevada Revised Statutes, chapter 488: Watercraft",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-488.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 93,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-488.html",
+     "sha256": "80fd18a76942bdd8fc7e2ae18bc2e9e7b229cd6b06472bae7a0c9de3f6f882f1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-489",
+   "short": "NRS 489",
+   "title": "Nevada Revised Statutes, chapter 489: Manufactured homes; mobile homes and similar vehicles; factory-built housing",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-489.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 149,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-489.html",
+     "sha256": "2106bd23d62c3ce01ee19ffb131da07d3e79a7f79c699097bbf6b461b5b1dbb0"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-493",
+   "short": "NRS 493",
+   "title": "Nevada Revised Statutes, chapter 493: General provisions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-493.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 26,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-493.html",
+     "sha256": "675694edd505a79510821c4cecafa7388c2bfad97a189166d2467eb42cd87b3a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-494",
+   "short": "NRS 494",
+   "title": "Nevada Revised Statutes, chapter 494: State airports",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-494.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 16,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-494.html",
+     "sha256": "52d0eee81cd74d33f185e42076093b19001ec8dbd0e22f59cde6763fefaaf890"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-495",
+   "short": "NRS 495",
+   "title": "Nevada Revised Statutes, chapter 495: City and county airports; acquisition of property",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-495.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 22,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-495.html",
+     "sha256": "92ae3bad0c8ce56fd1f73ec2d078ab31ae6f9a6f3d1609c776e12146c1bc9475"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-496",
+   "short": "NRS 496",
+   "title": "Nevada Revised Statutes, chapter 496: Municipal airports",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-496.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-496.html",
+     "sha256": "f0d814eaf30bd79ef68fbc40dcf4c167a9be29fe6d5548873f50ea5023714785"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-497",
+   "short": "NRS 497",
+   "title": "Nevada Revised Statutes, chapter 497: Zoning",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-497.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 29,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-497.html",
+     "sha256": "fdf0dd282d07970fd0868d232e54de799c175499e58ec7304a47f7501ebadc84"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-498",
+   "short": "NRS 498",
+   "title": "Nevada Revised Statutes, chapter 498: Skydiving businesses",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-498.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 11,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-498.html",
+     "sha256": "48e193563eb862b8bbcdfcfb9f01b2c2d3fcfdb803652484ea87de017e48f8a9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-501",
+   "short": "NRS 501",
+   "title": "Nevada Revised Statutes, chapter 501: Administration and enforcement",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-501.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 100,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-501.html",
+     "sha256": "447c33dea14eab30fab6cdbe6a10d5df88c46424035667a4ae4a9183606b62ad"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-502",
+   "short": "NRS 502",
+   "title": "Nevada Revised Statutes, chapter 502: Licenses, tags and permits",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-502.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 68,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-502.html",
+     "sha256": "83862472549bbf9263fb3377ee4604dca339ca6327b64bbe73cf7054f5961305"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-503",
+   "short": "NRS 503",
+   "title": "Nevada Revised Statutes, chapter 503: Hunting, fishing and trapping; miscellaneous protective measures",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-503.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 62,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-503.html",
+     "sha256": "9368b942a3ec51f5133b9e37c4a0dd14c9d092134e5d2ef0d4e45ae027582aef"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-504",
+   "short": "NRS 504",
+   "title": "Nevada Revised Statutes, chapter 504: Management and propagation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-504.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 24,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-504.html",
+     "sha256": "53984f69210df5160a9f3f54977673a7bbbd8ebe5e3de415f9c631ac0566ab95"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-505",
+   "short": "NRS 505",
+   "title": "Nevada Revised Statutes, chapter 505: Fur dealers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-505.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 6,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-505.html",
+     "sha256": "9ca0219e71c54d6602e2332f95b6c59d9efc1e9f433c82b5736b19fb31f0a712"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-506",
+   "short": "NRS 506",
+   "title": "Nevada Revised Statutes, chapter 506: Wildlife violator compact",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-506.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 2,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-506.html",
+     "sha256": "39b6b27c762a4c1838f0bc125687f3521128468eb963d99f23da780aa6ccc416"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-512",
+   "short": "NRS 512",
+   "title": "Nevada Revised Statutes, chapter 512: Inspection and safety of mines",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-512.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 25,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-512.html",
+     "sha256": "976e9666b6417deb3157f747767527f9d33e3de1c00ff66086dd799eb78a8d6e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-513",
+   "short": "NRS 513",
+   "title": "Nevada Revised Statutes, chapter 513: Commission on mineral resources",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-513.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-513.html",
+     "sha256": "868b33901fb660b01890db6036769aef385358babd3be94054d0e5947228aaa5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-514",
+   "short": "NRS 514",
+   "title": "Nevada Revised Statutes, chapter 514: Bureau of mines and geology",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-514.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 12,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-514.html",
+     "sha256": "28f012d90818f20413c639e607882ff9b66ba5eb4caa870078d97ecb85199982"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-514a",
+   "short": "NRS 514A",
+   "title": "Nevada Revised Statutes, chapter 514A: Mining oversight and accountability commission",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-514A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 11,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-514A.html",
+     "sha256": "5ca9c8e44e74dc8b7fb89708a142b428cb42ba32849c5344c40d5b6fd19fcf0f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-517",
+   "short": "NRS 517",
+   "title": "Nevada Revised Statutes, chapter 517: Mining claims, mill sites and tunnel rights",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-517.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 39,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-517.html",
+     "sha256": "3f0dadf56e9deb522742e7b3552bc9cf83121cfcf46ff914127e89631bc4f175"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-519",
+   "short": "NRS 519",
+   "title": "Nevada Revised Statutes, chapter 519: Purchase, assaying and recovery of ores",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-519.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 13,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-519.html",
+     "sha256": "b8038e0fbc1f97223a235612eb1a78059c6738bdcb949fa33455ebc689f7ba5f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-520",
+   "short": "NRS 520",
+   "title": "Nevada Revised Statutes, chapter 520: Mining corporations and partnerships",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-520.html",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 23,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-520.html",
+     "sha256": "878d8768de83d0af126d8fbc83369c223a09fd9cfba290f44ab525bbb29dc3c1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-522",
+   "short": "NRS 522",
+   "title": "Nevada Revised Statutes, chapter 522: Oil and gas",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-522.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 58,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-522.html",
+     "sha256": "3b3c740853ddf1bbb8e5855dd2fde87ece1574359f6c5d5ecb562ce0e913e28b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-527",
+   "short": "NRS 527",
+   "title": "Nevada Revised Statutes, chapter 527: Protection and preservation of timbered lands, trees and flora",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-527.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 38,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-527.html",
+     "sha256": "0a7ae8c419e2bfaa6070bf756617f7173fe87648b7f7250662b95bb3ab6b90ea"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-528",
+   "short": "NRS 528",
+   "title": "Nevada Revised Statutes, chapter 528: Forest practice and reforestation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-528.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 64,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-528.html",
+     "sha256": "9c08454e82bbb0ce805bdf431735d71c561564169b18aa8f56001ed9d5cb6541"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-533",
+   "short": "NRS 533",
+   "title": "Nevada Revised Statutes, chapter 533: Adjudication of vested water rights; appropriation of public waters",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-533.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 151,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-533.html",
+     "sha256": "e26e402a63bd09b4691b31708e02c5b6c16290cf4bdec3fdd4f962835c78b943"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-534",
+   "short": "NRS 534",
+   "title": "Nevada Revised Statutes, chapter 534: Underground water and wells",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-534.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 61,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-534.html",
+     "sha256": "15ea796be126cd38033ae34f0786db80fb672eb0b5a1bff23c9ef4f3920ce52e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-534a",
+   "short": "NRS 534A",
+   "title": "Nevada Revised Statutes, chapter 534A: Geothermal resources",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-534A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 8,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-534A.html",
+     "sha256": "97554222141b31c410f7623a994e89dd9b3ee3f97e0505cdc1aaa982de3ccfcb"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-534b",
+   "short": "NRS 534B",
+   "title": "Nevada Revised Statutes, chapter 534B: Dissolved mineral resources",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-534B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 13,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-534B.html",
+     "sha256": "2071237651dddf53ac74f0ff523e1aa6c7c3d4297c470bb352899b94b7ce9f07"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-535",
+   "short": "NRS 535",
+   "title": "Nevada Revised Statutes, chapter 535: Dams and other obstructions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-535.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 16,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-535.html",
+     "sha256": "feed2acacd3a59358bce3dab1251af2f0cc6feb7115c54ba0569a706b733922d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-536",
+   "short": "NRS 536",
+   "title": "Nevada Revised Statutes, chapter 536: Ditches, canals, flumes and other conduits",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-536.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-536.html",
+     "sha256": "9724a1d95653afc7bfb2bc4731fb639cefd7783b216b9a4e9b2a5a805398b8bc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-537",
+   "short": "NRS 537",
+   "title": "Nevada Revised Statutes, chapter 537: Navigable waters",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-537.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 3,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-537.html",
+     "sha256": "f925445a96728baef1f38fafa1bb8c4e617e987f61c726383437ed97457e9b06"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-538",
+   "short": "NRS 538",
+   "title": "Nevada Revised Statutes, chapter 538: Interstate waters, compacts and commissions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-538.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 50,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-538.html",
+     "sha256": "cccc041719458ab847c57c4b8a053fbc82352b0bb4526dc6b850903eb08c7f2f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-539",
+   "short": "NRS 539",
+   "title": "Nevada Revised Statutes, chapter 539: Irrigation districts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-539.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 327,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-539.html",
+     "sha256": "48ba8bcf028f8d01dc611d43e59858a54733139ede54f1767526e46beaeedf2b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-540",
+   "short": "NRS 540",
+   "title": "Nevada Revised Statutes, chapter 540: Planning and development of water resources",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-540.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-540.html",
+     "sha256": "377a513b3cb34d16af5c62c7d50f501184e3166b301be63c69b6e94a952fc4b7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-540a",
+   "short": "NRS 540A",
+   "title": "Nevada Revised Statutes, chapter 540A: Regional planning and management",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-540A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 15,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-540A.html",
+     "sha256": "6b72be5062eb86b15f297a94227be14bfc79824df607e50b9a7b9160c8ffb0b7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-541",
+   "short": "NRS 541",
+   "title": "Nevada Revised Statutes, chapter 541: Water conservancy districts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-541.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 45,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-541.html",
+     "sha256": "ef55d5972727ba54dc1db60971e4c09e1470bc10ac234850aefa71bac054de80"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-543",
+   "short": "NRS 543",
+   "title": "Nevada Revised Statutes, chapter 543: Control of floods",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-543.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 95,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-543.html",
+     "sha256": "98a36a3c64c9856229894f067128f5f0a2a2d2258f3fa93e0ceb5132d507ea84"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-544",
+   "short": "NRS 544",
+   "title": "Nevada Revised Statutes, chapter 544: Modification of weather",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-544.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 29,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-544.html",
+     "sha256": "7376e8c9da8aeaced1a68097db251a6a87cd5ea22a549df3c33532937e945072"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-547",
+   "short": "NRS 547",
+   "title": "Nevada Revised Statutes, chapter 547: Agricultural districts and associations",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-547.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 17,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-547.html",
+     "sha256": "21b6aa9b565b24830e998634e7afc8619e5aaacae92ca218aed8f8fc44765035"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-548",
+   "short": "NRS 548",
+   "title": "Nevada Revised Statutes, chapter 548: Conservation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-548.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 120,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-548.html",
+     "sha256": "dbb76a3cbbae159d7f903d46098ba3409991e982db3f7607a974d76a98eb16a4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-549",
+   "short": "NRS 549",
+   "title": "Nevada Revised Statutes, chapter 549: Extension work in agriculture, home economics and rural welfare",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-549.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 8,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-549.html",
+     "sha256": "694c1e5fc5cfda53bb10271e5841367b97f4f821e3713daf3e38efb1b599fefe"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-550",
+   "short": "NRS 550",
+   "title": "Nevada Revised Statutes, chapter 550: State 4-h camp",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-550.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 11,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-550.html",
+     "sha256": "df5272307848d6a337c836e186816dcbb8f56c23117022e5eafa9c1d978bf76a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-551",
+   "short": "NRS 551",
+   "title": "Nevada Revised Statutes, chapter 551: Fairs and exhibits",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-551.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 8,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-551.html",
+     "sha256": "a0088b04f5eacd143f949a164d6e82429748bc9bf692c80dcf7b9a5afdf385b6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-552",
+   "short": "NRS 552",
+   "title": "Nevada Revised Statutes, chapter 552: Bees and apiaries",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-552.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-552.html",
+     "sha256": "5cf4ee3dd5af21474d97432899642ec2cb49f545aa34bcbf05c28c5de8bdc07b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-553",
+   "short": "NRS 553",
+   "title": "Nevada Revised Statutes, chapter 553: Demonstration farms and plots",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-553.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 9,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-553.html",
+     "sha256": "c4240bda3a6af401610c5907285dda1260b0b4129371e952e33a716c4518bc21"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-554",
+   "short": "NRS 554",
+   "title": "Nevada Revised Statutes, chapter 554: Quarantines of agricultural commodities",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-554.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 28,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-554.html",
+     "sha256": "7062824282b01e8bc25f00ab893ee36432a5625b0b7c163fb3546a5f6ff08b90"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-555",
+   "short": "NRS 555",
+   "title": "Nevada Revised Statutes, chapter 555: Control of insects, pests and noxious weeds",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-555.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 129,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-555.html",
+     "sha256": "364bd243d84b702b1995a2be53433f609eeb6d90d3a642858be1f4e97a1a10aa"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-556",
+   "short": "NRS 556",
+   "title": "Nevada Revised Statutes, chapter 556: Garlic and onions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-556.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 8,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-556.html",
+     "sha256": "12f3294d0522d34d186c09dcc0c28f06bf069d88a7d47907753fe9f981397c60"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-557",
+   "short": "NRS 557",
+   "title": "Nevada Revised Statutes, chapter 557: Hemp",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-557.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 23,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-557.html",
+     "sha256": "59b95df7faa1220bad831e62b5b010911afffb56788ba2fe07edbf268a3bf1c1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-561",
+   "short": "NRS 561",
+   "title": "Nevada Revised Statutes, chapter 561: State department of agriculture",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-561.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 62,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-561.html",
+     "sha256": "1a5c0240f1e00fd947169b599f71763698a1c1567412427d5620e293b7380a8e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-562",
+   "short": "NRS 562",
+   "title": "Nevada Revised Statutes, chapter 562: Sheep",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-562.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-562.html",
+     "sha256": "4893ee5e79342b1247b31e047e383264084e6bd3f54e9be44b7972c1dd45b066"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-563",
+   "short": "NRS 563",
+   "title": "Nevada Revised Statutes, chapter 563: Promotion of livestock",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-563.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 26,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-563.html",
+     "sha256": "a5b41006ff0a65aefcaecf1c0b95c96b52b92f004152c1c35d65b28a6b7b011f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-564",
+   "short": "NRS 564",
+   "title": "Nevada Revised Statutes, chapter 564: Brands and marks",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-564.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 19,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-564.html",
+     "sha256": "cad07497e0688d27cfb60bfaf0b2f39e2ca68404e6625d0a2ad791f601acb57d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-565",
+   "short": "NRS 565",
+   "title": "Nevada Revised Statutes, chapter 565: Inspection of brands",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-565.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 16,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-565.html",
+     "sha256": "3ef01977200a5dfca29382f0deefc8ff98f7d750132c010e0d0ac576b2cf9159"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-566",
+   "short": "NRS 566",
+   "title": "Nevada Revised Statutes, chapter 566: Inspection and possession of hides and carcasses",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-566.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 3,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-566.html",
+     "sha256": "9ecc6adcfaa017bc7700d60d518d90e37609f5b13263fe5088618cf901d6ffae"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-567",
+   "short": "NRS 567",
+   "title": "Nevada Revised Statutes, chapter 567: Noxious and predatory animals; property-destroying birds",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-567.html",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 18,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-567.html",
+     "sha256": "800ae643072f3a2693a450f0563123f2c223a3ea553d21610b1dbdaeb6c074ce"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-568",
+   "short": "NRS 568",
+   "title": "Nevada Revised Statutes, chapter 568: Grazing and ranging",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-568.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 35,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-568.html",
+     "sha256": "3de2d44d3cb18ba61dc96f0c11f168bd2aa92241a83390139f781f94f5e389ce"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-569",
+   "short": "NRS 569",
+   "title": "Nevada Revised Statutes, chapter 569: Estrays and livestock",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-569.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-569.html",
+     "sha256": "e6e7aebe957dd8497c9f6c359270dc470e3282809bb86afcbeb7695a4d71086e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-571",
+   "short": "NRS 571",
+   "title": "Nevada Revised Statutes, chapter 571: Diseased animals",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-571.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 32,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-571.html",
+     "sha256": "9b0e383c84eaf21397756bcdb09aacd095c15490d6611123b26bed4fda1b032e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-573",
+   "short": "NRS 573",
+   "title": "Nevada Revised Statutes, chapter 573: Public sales of livestock",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-573.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 35,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-573.html",
+     "sha256": "6162445b49090b07d6b1418e405c9c26dcb9428d8eeefbf6fa4bd6ceac2b18b2"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-574",
+   "short": "NRS 574",
+   "title": "Nevada Revised Statutes, chapter 574: Cruelty to animals: prevention and penalties",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-574.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 82,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-574.html",
+     "sha256": "412bba1b71eaef756218ea5a82b1f6a382de0851510bd991ae47b71605cf3244"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-574a",
+   "short": "NRS 574A",
+   "title": "Nevada Revised Statutes, chapter 574A: Dangerous wild animals",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-574A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 11,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-574A.html",
+     "sha256": "54728b2a7ad70913c835c6d94bbfa0434b9da0cd7df876c377745c31be70a9e1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-575",
+   "short": "NRS 575",
+   "title": "Nevada Revised Statutes, chapter 575: Miscellaneous provisions; collection of taxes",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-575.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 20,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-575.html",
+     "sha256": "d555c567635654d32520f09f277351ed591752fbf627ec5123f8d365cc8fbc8f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-576",
+   "short": "NRS 576",
+   "title": "Nevada Revised Statutes, chapter 576: Livestock and farm products: dealers, brokers, commission merchants, cash buyers and agents; alternative livestock",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-576.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 50,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-576.html",
+     "sha256": "ee6493ba56b7c278d075ce70c215657fec02405f22be7f04c15b1f2471aeba76"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-577",
+   "short": "NRS 577",
+   "title": "Nevada Revised Statutes, chapter 577: Animal remedies, veterinary biologics and pharmaceuticals",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-577.html",
+   "versions": [
+    {
+     "from": "2022-05-01",
+     "units": 7,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-577.html",
+     "sha256": "27770580fe09a1e0683cf9c8b4d621f3c7c2e185069435b0e4c9979d349af2bb"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-580",
+   "short": "NRS 580",
+   "title": "Nevada Revised Statutes, chapter 580: Food establishments",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-580.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 43,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-580.html",
+     "sha256": "41b3d7b0384d212159e51028f8ec46a0c4cf6ed776301243f4b9af306ed035ba"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-581",
+   "short": "NRS 581",
+   "title": "Nevada Revised Statutes, chapter 581: Weights and measures",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-581.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 43,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-581.html",
+     "sha256": "b89b2272bec12a5d676eb3cafde6a31d48fb62849f57d00b1b9ce1855b69ef00"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-582",
+   "short": "NRS 582",
+   "title": "Nevada Revised Statutes, chapter 582: Public weighmasters",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-582.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 30,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-582.html",
+     "sha256": "02b20febfe35ab5672a98cd65fd6f65f382e674ecc7eba5dd83ce4e766d77f21"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-583",
+   "short": "NRS 583",
+   "title": "Nevada Revised Statutes, chapter 583: Meat, fish, produce, poultry and eggs",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-583.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 117,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-583.html",
+     "sha256": "1a9c34e0aa50e210987703d8c03de723e65610ddf8cc3259748155691d1489c0"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-584",
+   "short": "NRS 584",
+   "title": "Nevada Revised Statutes, chapter 584: Dairy products",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-584.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 111,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-584.html",
+     "sha256": "5d9dc21e07d56536d184d9727ea0a92b771fbf891fd60968f81dc3207c623331"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-585",
+   "short": "NRS 585",
+   "title": "Nevada Revised Statutes, chapter 585: Food, drugs and cosmetics: adulteration; labels; brands",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-585.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 70,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-585.html",
+     "sha256": "9c72e989b5b7dc048d30cb2ff75410c7505a55f0196010f5f411133c2246dc3e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-586",
+   "short": "NRS 586",
+   "title": "Nevada Revised Statutes, chapter 586: Nevada pesticides act",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-586.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 61,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-586.html",
+     "sha256": "3b2127d4bbccca0f1f935c008c91da8070fa0535d44ea74b57bedd24be5cba9f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-587",
+   "short": "NRS 587",
+   "title": "Nevada Revised Statutes, chapter 587: Agricultural products and seeds",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-587.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 157,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-587.html",
+     "sha256": "a0d3503a7fe75c4b98674f13982faf8bc50e98c5dc9a4eabd9c3d5f999acfcdd"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-588",
+   "short": "NRS 588",
+   "title": "Nevada Revised Statutes, chapter 588: Commercial fertilizers and agricultural minerals",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-588.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 40,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-588.html",
+     "sha256": "d67ec6a693915439299a20571a64566bcac6fcce30190440e2bffe93b33281a8"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-590",
+   "short": "NRS 590",
+   "title": "Nevada Revised Statutes, chapter 590: Motor vehicle fuel, petroleum products and antifreeze",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-590.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 81,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-590.html",
+     "sha256": "a2e4cfe08904a15c56d9b0c1d2372450d6bb94e125478f545238f6fcf9035440"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-597",
+   "short": "NRS 597",
+   "title": "Nevada Revised Statutes, chapter 597: Miscellaneous trade regulations and prohibited acts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-597.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 272,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-597.html",
+     "sha256": "fc5c9263033bbe2fa10ae67d66e8cf05d3e4504b42a3547720e5d1110b4f011b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-598",
+   "short": "NRS 598",
+   "title": "Nevada Revised Statutes, chapter 598: Deceptive trade practices",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-598.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 273,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-598.html",
+     "sha256": "c9ce1ce2687dc7a9ece7a0f13b1a0e893da9f00c67031554cb237bc2011a7f76"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-598a",
+   "short": "NRS 598A",
+   "title": "Nevada Revised Statutes, chapter 598A: Unfair trade practices",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-598A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 43,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-598A.html",
+     "sha256": "53e157c978f080041063bc8262ae956e7434f6ee2f3777f7af0a9feb99729784"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-598b",
+   "short": "NRS 598B",
+   "title": "Nevada Revised Statutes, chapter 598B: Equal opportunity for credit",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-598B.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 21,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-598B.html",
+     "sha256": "8d108e90377c5b3e8e096f91daeda4479970cfae146beec7e0e1837315140200"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-598c",
+   "short": "NRS 598C",
+   "title": "Nevada Revised Statutes, chapter 598C: Consumer reporting",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-598C.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-598C.html",
+     "sha256": "060d98bbe0be2fc7048c683a21f87fcc375ba97de507c658abe88a3411ca15b3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-598d",
+   "short": "NRS 598D",
+   "title": "Nevada Revised Statutes, chapter 598D: Unfair lending practices",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-598D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 10,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-598D.html",
+     "sha256": "5b8c62c047725a84a8cd3f21d7b6fe46e35db01a5828879f4560604796f2ff47"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-599a",
+   "short": "NRS 599A",
+   "title": "Nevada Revised Statutes, chapter 599A: Solicitation to purchase land",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-599A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 10,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-599A.html",
+     "sha256": "5aa0c093acb80e284700879e0dc6026845997721a70f360ec96917710a8f169a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-599b",
+   "short": "NRS 599B",
+   "title": "Nevada Revised Statutes, chapter 599B: Solicitation by telephone",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-599B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 41,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-599B.html",
+     "sha256": "0c69c919f29778c6a331da2857b73b83b6b5187f167bd8afe5f6d4b064b52ec9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-600",
+   "short": "NRS 600",
+   "title": "Nevada Revised Statutes, chapter 600: Trademarks, trade names and service marks",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-600.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 46,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-600.html",
+     "sha256": "2203567f8968403dae9c791bca49bf82c4a100758686c2a73baec9cc464659c7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-600a",
+   "short": "NRS 600A",
+   "title": "Nevada Revised Statutes, chapter 600A: Trade secrets (uniform act)",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-600A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 12,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-600A.html",
+     "sha256": "13c257d22f16360223fb0f195fbaab15015c2b7049140f96c86c4dc1ae5dcc83"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-601",
+   "short": "NRS 601",
+   "title": "Nevada Revised Statutes, chapter 601: Insignia and names of organizations",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-601.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-601.html",
+     "sha256": "acbfef89ce5525befe59eabd3a098e05f46654fd230ba316a7ac7fca68e08bd7"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-602",
+   "short": "NRS 602",
+   "title": "Nevada Revised Statutes, chapter 602: Doing business under assumed or fictitious name",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-602.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 13,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-602.html",
+     "sha256": "a71cc0b26788138d6a3d9e447a426a660c1a859e3de0e6b81f44f2fcd0f9ca3b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-603",
+   "short": "NRS 603",
+   "title": "Nevada Revised Statutes, chapter 603: Computers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-603.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 17,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-603.html",
+     "sha256": "64f493499db668514eeae60ec0d3d6160f3462b4de1a0e0c0bb3149071d8df1e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-603a",
+   "short": "NRS 603A",
+   "title": "Nevada Revised Statutes, chapter 603A: Security and privacy of personal information",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-603A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 62,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-603A.html",
+     "sha256": "b158c2235ea98fa63af2f92924a9298e68de0fc70dbfcdbe45430d4d75b48b06"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-604a",
+   "short": "NRS 604A",
+   "title": "Nevada Revised Statutes, chapter 604A: Deferred deposit loans, high-interest loans, title loans and check-cashing services",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-604A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 176,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-604A.html",
+     "sha256": "7dfa080c288b0d6af6f4c7974c8df9dd12824650601dd559ec6e8fd6bda72aeb"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-604b",
+   "short": "NRS 604B",
+   "title": "Nevada Revised Statutes, chapter 604B: Refund anticipation loans",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-604B.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 17,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-604B.html",
+     "sha256": "5e13829d7f62d90e78cfc5dccec763f6b5266a80bc41f0c558f18e4274b9427c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-604c",
+   "short": "NRS 604C",
+   "title": "Nevada Revised Statutes, chapter 604C: Consumer litigation funding",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-604C.html",
+   "versions": [
+    {
+     "from": "2023-01-25",
+     "units": 58,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-604C.html",
+     "sha256": "62226337318d616e7d087aec8c1246aa033344c22cd01c20c25a1543a379927f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-604d",
+   "short": "NRS 604D",
+   "title": "Nevada Revised Statutes, chapter 604D: Earned wage access services",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-604D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 44,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-604D.html",
+     "sha256": "c9eb4e4287833c255604b69a1443dee7aeb7d27aebeba2d200b20054ffd5dd15"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-606",
+   "short": "NRS 606",
+   "title": "Nevada Revised Statutes, chapter 606: Directory of newly hired employees",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-606.html",
+   "versions": [
+    {
+     "from": "2022-05-02",
+     "units": 9,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-606.html",
+     "sha256": "0c6958016e65dd607c16cd6bab2d628badc839fb20b909a85d63d03bc2cd705b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-607",
+   "short": "NRS 607",
+   "title": "Nevada Revised Statutes, chapter 607: Labor commissioner",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-607.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 32,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-607.html",
+     "sha256": "8f5cecb3a3410203a42905ba708d05d8e5304eb4acc2aee42b5fa7dc0289ae9f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-608",
+   "short": "NRS 608",
+   "title": "Nevada Revised Statutes, chapter 608: Compensation, wages and hours",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-608.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 91,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-608.html",
+     "sha256": "f01f40be28236feb7f04086bb4215786f2f11850e2f7ece99e2800c051f886f9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-609",
+   "short": "NRS 609",
+   "title": "Nevada Revised Statutes, chapter 609: Employment of minors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-609.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 28,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-609.html",
+     "sha256": "b4e475af5bfc50c17de568820aaa6605b896e6b5636b8604447011a555b59119"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-610",
+   "short": "NRS 610",
+   "title": "Nevada Revised Statutes, chapter 610: Apprenticeships",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-610.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 25,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-610.html",
+     "sha256": "126774e2c1adc39fca66d88a016b5babd44ab102ad3c64a356c7078483e2eb25"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-611",
+   "short": "NRS 611",
+   "title": "Nevada Revised Statutes, chapter 611: Employment agencies and offices",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-611.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 49,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-611.html",
+     "sha256": "a2f399a6d291cc9294439a97b59ff316314407de11363edbc23d3c67d3dd1518"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-612",
+   "short": "NRS 612",
+   "title": "Nevada Revised Statutes, chapter 612: Unemployment compensation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-612.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 213,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-612.html",
+     "sha256": "f62e62e796a08e795f7685faf2f0313712061b55fa0b95bf5bf4984ebeb3f5c5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-613",
+   "short": "NRS 613",
+   "title": "Nevada Revised Statutes, chapter 613: Employment practices",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-613.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 97,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-613.html",
+     "sha256": "1a9da3526317b0359171eeecedd514717d31f4c666073c7a58674e1f55dc0f8e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-614",
+   "short": "NRS 614",
+   "title": "Nevada Revised Statutes, chapter 614: Organized labor and labor disputes",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-614.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 18,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-614.html",
+     "sha256": "86a4bf0ed97c00155db27188d3abbbd1ed851b495d81033cbc5414eeb9334d9d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-615",
+   "short": "NRS 615",
+   "title": "Nevada Revised Statutes, chapter 615: Vocational rehabilitation",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-615.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-615.html",
+     "sha256": "6db30cf3697ae73a331f2ea155f69e2cca594bc3aecb21f89f69497adc114dfd"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-616a",
+   "short": "NRS 616A",
+   "title": "Nevada Revised Statutes, chapter 616A: Industrial insurance: administration",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-616A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 110,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-616A.html",
+     "sha256": "39774864aeb5e9ffc69227e62eb549b9fb1341fb390d7247b4ad479d3e412d07"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-616b",
+   "short": "NRS 616B",
+   "title": "Nevada Revised Statutes, chapter 616B: Industrial insurance: insurers; liability for provision of coverage",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-616B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 152,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-616B.html",
+     "sha256": "d4ce6ee6e1608afd6cc1dae89e903d978433e8ee1b831c13cedc3cc39699a4fc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-616c",
+   "short": "NRS 616C",
+   "title": "Nevada Revised Statutes, chapter 616C: Industrial insurance: benefits for injuries or death",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-616C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 151,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-616C.html",
+     "sha256": "ecf9e20082ef3b686784a6235ff74c1d5434e608ab190691a90ce5954d1370ef"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-616d",
+   "short": "NRS 616D",
+   "title": "Nevada Revised Statutes, chapter 616D: Industrial insurance: prohibited acts; penalties; prosecution",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-616D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 47,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-616D.html",
+     "sha256": "42654cbf5ead09ae2754e6f578ae65dca024cbec163d4598d7884562fd93b532"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-617",
+   "short": "NRS 617",
+   "title": "Nevada Revised Statutes, chapter 617: Occupational diseases",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-617.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 80,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-617.html",
+     "sha256": "2f3efe027a59e1444708846f94fa48254afb4148adca8dbfef0aaf07bd019f26"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-618",
+   "short": "NRS 618",
+   "title": "Nevada Revised Statutes, chapter 618: Occupational safety and health",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-618.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 205,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-618.html",
+     "sha256": "25bbf3fbd201ea9f1a3004e55ff305fb3f270dc4d3e5ffb54c0cbccf1047572c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-622",
+   "short": "NRS 622",
+   "title": "Nevada Revised Statutes, chapter 622: General provisions governing regulatory bodies",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-622.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 41,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-622.html",
+     "sha256": "29ea9f1670e605dc046b67678b301d55b642d5341c0a8863210c088656e3e505"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-622a",
+   "short": "NRS 622A",
+   "title": "Nevada Revised Statutes, chapter 622A: Administrative procedure before certain regulatory bodies",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-622A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-622A.html",
+     "sha256": "0118cb031bfd31611c45bbda3108942d03e2c5c41801209e4a9857cf9e9cf00f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-623",
+   "short": "NRS 623",
+   "title": "Nevada Revised Statutes, chapter 623: Architects, interior designers and residential designers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-623.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 65,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-623.html",
+     "sha256": "00a797dcdd05f31b2fbe6edd499f98a312fedf95c427e2f806f70add2c201858"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-623a",
+   "short": "NRS 623A",
+   "title": "Nevada Revised Statutes, chapter 623A: Landscape architects",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-623A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 56,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-623A.html",
+     "sha256": "4c080299dbe8ea064f0e1e758006e8cb0f9a870494da390f51ed9660b8eedb75"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-624",
+   "short": "NRS 624",
+   "title": "Nevada Revised Statutes, chapter 624: Contractors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-624.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 167,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-624.html",
+     "sha256": "1cecd8cccb1d5a580519b89b9bb98e02c3f3a92e47290e86d652c95e5c638ea6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-625",
+   "short": "NRS 625",
+   "title": "Nevada Revised Statutes, chapter 625: Professional engineers and land surveyors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-625.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 76,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-625.html",
+     "sha256": "6f033fa67a99497ee2067a1540c5c378950488de68877fa01caa54b9ecc9c178"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-625a",
+   "short": "NRS 625A",
+   "title": "Nevada Revised Statutes, chapter 625A: Environmental health specialists",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-625A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 37,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-625A.html",
+     "sha256": "8fa17adfe2ab1114b42ce02d4f15904e2922ec1c639850ca89940b45c7a855b6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-627",
+   "short": "NRS 627",
+   "title": "Nevada Revised Statutes, chapter 627: Construction controls",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-627.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 21,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-627.html",
+     "sha256": "8b129a99c34d6657a1c2ed2da7b543b1305f8b556a8cc530ede3129c196a66d8"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-628",
+   "short": "NRS 628",
+   "title": "Nevada Revised Statutes, chapter 628: Accountants",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-628.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 72,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-628.html",
+     "sha256": "1e28aaae0ee0302ff6b5c2e736e071e4c4abe1a80938b265062004cd0f979692"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-628a",
+   "short": "NRS 628A",
+   "title": "Nevada Revised Statutes, chapter 628A: Financial planners",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-628A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 4,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-628A.html",
+     "sha256": "0131a7880bcd2f976a5f184d4b5a532010fff21c610b3f84364ebbe516505c2d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-628b",
+   "short": "NRS 628B",
+   "title": "Nevada Revised Statutes, chapter 628B: Private professional guardians",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-628B.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 55,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-628B.html",
+     "sha256": "ca016c29d8b7ac7b5334b58228e98aab2acec67055f13f5800e6923376202682"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-629",
+   "short": "NRS 629",
+   "title": "Nevada Revised Statutes, chapter 629: Healing arts generally",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-629.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 77,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-629.html",
+     "sha256": "58c1d3ef023f823b4b154317d179a513101f025fa4d66c61c650e7f8ef3c68da"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-629a",
+   "short": "NRS 629A",
+   "title": "Nevada Revised Statutes, chapter 629A: Interstate medical licensure compact",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-629A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 1,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-629A.html",
+     "sha256": "c6c9ccc8c3547f463e296058c78978abd434e0f34d65aa5c029a2025679883d3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-630",
+   "short": "NRS 630",
+   "title": "Nevada Revised Statutes, chapter 630: Physicians, physician assistants, medical assistants, perfusionists, anesthesiologist assistants and practitioners of respiratory care",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-630.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 193,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-630.html",
+     "sha256": "b727bf39b5874fedde97ec499ed01c81505ee973e9672e1958eccb94757d52a6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-630a",
+   "short": "NRS 630A",
+   "title": "Nevada Revised Statutes, chapter 630A: Homeopathic physicians, advanced practitioners of homeopathy and homeopathic assistants",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-630A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 77,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-630A.html",
+     "sha256": "b58d97d4543c73e0e841fd1155a506281c26fc133f7d929e5eb169c26a1548a9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-631",
+   "short": "NRS 631",
+   "title": "Nevada Revised Statutes, chapter 631: Dentistry, dental hygiene, dental therapy and expanded function dental assistance",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-631.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 135,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-631.html",
+     "sha256": "ed3d514450726f5cb03502da201f553d7bc9b613432a4bc3d7199d0b9c3f46dc"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-632",
+   "short": "NRS 632",
+   "title": "Nevada Revised Statutes, chapter 632: Nursing",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-632.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 127,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-632.html",
+     "sha256": "93c5091c5e2be0b38c5f75ad17006c7510329cade6534f17427c706e33cf5767"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-633",
+   "short": "NRS 633",
+   "title": "Nevada Revised Statutes, chapter 633: Osteopathic medicine",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-633.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 160,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-633.html",
+     "sha256": "fbecbc4d92537b5d7ee6b5cb3f522f0667e8038d9c239ae1bc51b8dce2302185"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-634",
+   "short": "NRS 634",
+   "title": "Nevada Revised Statutes, chapter 634: Chiropractic physicians and chiropractic assistants",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-634.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 66,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-634.html",
+     "sha256": "1803d3b01eac103f1c21fd684c94f50a0c470434d727b841def20e7f08de4f2c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-634a",
+   "short": "NRS 634A",
+   "title": "Nevada Revised Statutes, chapter 634A: Doctors of oriental medicine",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-634A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 33,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-634A.html",
+     "sha256": "47b59be8b882d9c51a06637fc313879934ffb9b69c4af4ab21e54ce12c04fa84"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-634b",
+   "short": "NRS 634B",
+   "title": "Nevada Revised Statutes, chapter 634B: Naprapaths",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-634B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 27,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-634B.html",
+     "sha256": "04282051f83f5dd84f2a625366181e12a61013d2637ae2b45aed37c1c52e26ce"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-635",
+   "short": "NRS 635",
+   "title": "Nevada Revised Statutes, chapter 635: Podiatric physicians and podiatry hygienists",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-635.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 43,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-635.html",
+     "sha256": "7dee7977ad3824d9dfcc816bdc7de3a9ef3e4eb50fffdf5502b4941877eb06eb"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-636",
+   "short": "NRS 636",
+   "title": "Nevada Revised Statutes, chapter 636: Optometry",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-636.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 118,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-636.html",
+     "sha256": "e1d5983e5a1a6c71300ad5a57e6b171d7df70049d481d6589f429871ed38865e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-637",
+   "short": "NRS 637",
+   "title": "Nevada Revised Statutes, chapter 637: Dispensing opticians",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-637.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 39,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-637.html",
+     "sha256": "7e4bc7d8b6ff8047ce1e0339f034287a48e6575738664f3391668994650455b9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-637b",
+   "short": "NRS 637B",
+   "title": "Nevada Revised Statutes, chapter 637B: Audiologists, speech-language pathologists and hearing aid specialists",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-637B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 69,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-637B.html",
+     "sha256": "8cfe1cfb5c4d8a0f80938ef362513d81c22487c677bacd6b64acb3a41b80c3a9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-638",
+   "short": "NRS 638",
+   "title": "Nevada Revised Statutes, chapter 638: Veterinary medicine; euthanasia technicians",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-638.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 80,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-638.html",
+     "sha256": "611dfa18feea4dd63e0d4286698d5b9147ca6f26d754a484c46e480357efd732"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-639",
+   "short": "NRS 639",
+   "title": "Nevada Revised Statutes, chapter 639: Pharmacists and pharmacy",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-639.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 258,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-639.html",
+     "sha256": "332a441513ae017bebd92942df13c8fda50fbc47adf859adb3b4def175570caa"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-640",
+   "short": "NRS 640",
+   "title": "Nevada Revised Statutes, chapter 640: Physical therapists, physical therapist assistants and physical therapist technicians",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-640.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 51,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-640.html",
+     "sha256": "168067a412bc67e35159b5251a1f9413cf09d3a60cf426b4f77c3b0296558157"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-640a",
+   "short": "NRS 640A",
+   "title": "Nevada Revised Statutes, chapter 640A: Occupational therapists and occupational therapy assistants",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-640A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 32,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-640A.html",
+     "sha256": "22042ce77ff8771ccf09e9aaaf2a2ca8c8da6dcac40c43b5d48b59025268bd53"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-640b",
+   "short": "NRS 640B",
+   "title": "Nevada Revised Statutes, chapter 640B: Athletic trainers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-640B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 53,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-640B.html",
+     "sha256": "88bde293abaada68f162f14fc8f09d6419f2ab76b8dfbfd583cad728f855b48f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-640c",
+   "short": "NRS 640C",
+   "title": "Nevada Revised Statutes, chapter 640C: Massage therapy",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-640C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 57,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-640C.html",
+     "sha256": "407c0217c0cae84509f241df1fd37f8e74aced17b4389ce3d60ac0fb19562492"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-640d",
+   "short": "NRS 640D",
+   "title": "Nevada Revised Statutes, chapter 640D: Music therapists",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-640D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 25,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-640D.html",
+     "sha256": "1727002aa76bd3a1f00faad3a22ab177c3570718c4bb5eff46ac5f419b10e93e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-640e",
+   "short": "NRS 640E",
+   "title": "Nevada Revised Statutes, chapter 640E: Dietitians",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-640E.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 37,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-640E.html",
+     "sha256": "1e2d4cda6801f3034d46e7950fa7c3ca35777ab88533ed5930406e834df2e5db"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-641",
+   "short": "NRS 641",
+   "title": "Nevada Revised Statutes, chapter 641: Psychologists and behavioral health and wellness practitioners",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-641.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 84,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-641.html",
+     "sha256": "aa98d779222d4f3be6b66310926fc81e4beead5ecd114838f80a3e059011f276"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-641a",
+   "short": "NRS 641A",
+   "title": "Nevada Revised Statutes, chapter 641A: Marriage and family therapists and clinical professional counselors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-641A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 70,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-641A.html",
+     "sha256": "db2058a75b1dab75eccb5070652c1c69e185c500fafb7be699665192c45b8007"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-641b",
+   "short": "NRS 641B",
+   "title": "Nevada Revised Statutes, chapter 641B: Social workers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-641B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 50,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-641B.html",
+     "sha256": "444e835cb20a8ba2b05c935f8fbfec8c33b11202264b295f1eafabab507b5eb4"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-641c",
+   "short": "NRS 641C",
+   "title": "Nevada Revised Statutes, chapter 641C: Alcohol, drug and gambling counselors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-641C.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 67,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-641C.html",
+     "sha256": "15ade509acb9de5b1ceecebf78864ae4c4bd2e9daa1a97e9c6e19985be2d2475"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-641d",
+   "short": "NRS 641D",
+   "title": "Nevada Revised Statutes, chapter 641D: Applied behavior analysis",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-641D.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 53,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-641D.html",
+     "sha256": "38fdda3f9f9ff1bcc65fd3ffe33a728bdce661171ca76aec06c29241df26daaa"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-642",
+   "short": "NRS 642",
+   "title": "Nevada Revised Statutes, chapter 642: Funeral directors, funeral arrangers and embalmers; operators of funeral establishments, direct cremation facilities, cemeteries and crematories",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-642.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 101,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-642.html",
+     "sha256": "a66a3365431a96bb893ef8a335c48b0637db295b061459ae9bbeba394bddb58e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-643",
+   "short": "NRS 643",
+   "title": "Nevada Revised Statutes, chapter 643: Barbers and barbering",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-643.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 51,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-643.html",
+     "sha256": "b8814b5edf836b2872586f2671013c975666f43e673612c3c8d6dca81420574f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-644a",
+   "short": "NRS 644A",
+   "title": "Nevada Revised Statutes, chapter 644A: Cosmetology",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-644A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 143,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-644A.html",
+     "sha256": "be41240197b0c989b5a8550b85762aea1c6b1757141ff47fdf63760a03dcf02e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645",
+   "short": "NRS 645",
+   "title": "Nevada Revised Statutes, chapter 645: Real estate brokers and salespersons",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 182,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645.html",
+     "sha256": "a5276fe21de5db726d2355b369aa6ce3348dffb995971ce455bc07b7dc380dd8"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645a",
+   "short": "NRS 645A",
+   "title": "Nevada Revised Statutes, chapter 645A: Escrow agencies and agents",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 56,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645A.html",
+     "sha256": "5b5d9e15eb732e614865cc06c4b38d4ae6c1192cd1bb8ac5209f0e3398297b68"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645b",
+   "short": "NRS 645B",
+   "title": "Nevada Revised Statutes, chapter 645B: Mortgage companies and mortgage loan originators",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 126,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645B.html",
+     "sha256": "6b4e4236db26bfd8146233676e14694bfc5901314b4aad51ce256dc56b79f815"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645c",
+   "short": "NRS 645C",
+   "title": "Nevada Revised Statutes, chapter 645C: Appraisers of real estate and appraisal management companies",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645C.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 96,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645C.html",
+     "sha256": "bf3cd789cd02bb193ec84a4b5a07b2b6461afcd52316a3dc7c369f6668931edb"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645d",
+   "short": "NRS 645D",
+   "title": "Nevada Revised Statutes, chapter 645D: Inspectors of structures and energy auditors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 41,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645D.html",
+     "sha256": "8ef360683c34acd42fcb26dafae6828ea053f44efc47fb673c72d46a32143fd9"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645f",
+   "short": "NRS 645F",
+   "title": "Nevada Revised Statutes, chapter 645F: Mortgage lending and related professions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645F.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 57,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645F.html",
+     "sha256": "eab6a4f20624ea086d18186f905c7b45f6019f191088181175eaff6e92aea438"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645g",
+   "short": "NRS 645G",
+   "title": "Nevada Revised Statutes, chapter 645G: Exchange facilitators",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645G.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 52,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645G.html",
+     "sha256": "3c096ca4fafa14c00334097a00d9eb07af0677a9e7516f645c20abe0c89401cd"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-645h",
+   "short": "NRS 645H",
+   "title": "Nevada Revised Statutes, chapter 645H: Asset management companies and asset managers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-645H.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 46,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-645H.html",
+     "sha256": "98dcdee04060c682235707bbdc091d095ceae22b94ecca126469c66f8bdce453"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-646",
+   "short": "NRS 646",
+   "title": "Nevada Revised Statutes, chapter 646: Pawnbrokers",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-646.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 10,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-646.html",
+     "sha256": "46fc0af1ae5e5abd3d8c4584193e62a7e2590f92275ef2a5a59fab9702cdc780"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-647",
+   "short": "NRS 647",
+   "title": "Nevada Revised Statutes, chapter 647: Dealers in junk and secondhand materials; scrap metal processors",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-647.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 46,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-647.html",
+     "sha256": "66428e700629c9c5b80912f11c50cd1cd8a41db481d20a125457ddf855c337ec"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-648",
+   "short": "NRS 648",
+   "title": "Nevada Revised Statutes, chapter 648: Private investigators, private patrol officers, polygraphic examiners, process servers, repossessors, dog handlers and registered employees",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-648.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 78,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-648.html",
+     "sha256": "064c0efefffe92753750ccba7c26c646c8fd9f07807e979e5a713344c3d36583"
+    }
+   ]
   }
  ]
 }
