@@ -414,6 +414,26 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Nevada Legislature: Nevada Revised Statutes chapter 377B (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-377B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 377C (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-377C.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 377D (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-377D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 378 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-378.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 378A (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-378A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 379 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-379.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 380 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-380.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 380A (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-380A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 381 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-381.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 383 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-383.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 384 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-384.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 385 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-385.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 385A (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-385A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 385B (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-385B.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 386 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-386.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388A (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388A.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388D (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388D.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388E (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388E.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388F (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388F.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388G (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388G.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 388H (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-388H.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature: Nevada Revised Statutes chapter 389 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-389.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -833,12 +853,32 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nrs-377b` | Nevada Revised Statutes, chapter 377B: Tax for infrastructure | 1 | 2024-06-29 to 2024-06-29 |
 | `nrs-377c` | Nevada Revised Statutes, chapter 377C: Tax for school capital projects | 1 | 2024-06-29 to 2024-06-29 |
 | `nrs-377d` | Nevada Revised Statutes, chapter 377D: Tax for miscellaneous local purposes | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-378` | Nevada Revised Statutes, chapter 378: State library, archives and public records | 1 | 2024-06-29 to 2024-06-29 |
+| `nrs-378a` | Nevada Revised Statutes, chapter 378A: State historical records advisory board | 1 | 2024-06-29 to 2024-06-29 |
+| `nrs-379` | Nevada Revised Statutes, chapter 379: Public libraries | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-380` | Nevada Revised Statutes, chapter 380: Law libraries | 1 | 2024-06-29 to 2024-06-29 |
+| `nrs-380a` | Nevada Revised Statutes, chapter 380A: State council on libraries and literacy | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-381` | Nevada Revised Statutes, chapter 381: State museums | 1 | 2026-09-09 to 2026-09-09 |
+| `nrs-383` | Nevada Revised Statutes, chapter 383: Historic preservation and archeology | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-384` | Nevada Revised Statutes, chapter 384: Historic districts | 1 | 2024-06-29 to 2024-06-29 |
+| `nrs-385` | Nevada Revised Statutes, chapter 385: State administrative organization | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-385a` | Nevada Revised Statutes, chapter 385A: Accountability of public schools | 1 | 2026-09-09 to 2026-09-09 |
+| `nrs-385b` | Nevada Revised Statutes, chapter 385B: Nevada interscholastic activities association | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-386` | Nevada Revised Statutes, chapter 386: Local administrative organization | 1 | 2026-09-09 to 2026-09-09 |
+| `nrs-388` | Nevada Revised Statutes, chapter 388: System of public instruction | 1 | 2026-09-09 to 2026-09-09 |
+| `nrs-388a` | Nevada Revised Statutes, chapter 388A: Charter schools | 1 | 2026-09-09 to 2026-09-09 |
+| `nrs-388d` | Nevada Revised Statutes, chapter 388D: Alternative school choices | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-388e` | Nevada Revised Statutes, chapter 388E: Education of children in foster care | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-388f` | Nevada Revised Statutes, chapter 388F: Interstate compact on educational opportunity for military children | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-388g` | Nevada Revised Statutes, chapter 388G: Alternative school management | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-388h` | Nevada Revised Statutes, chapter 388H: Programs of education for incarcerated persons | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-389` | Nevada Revised Statutes, chapter 389: Academics and textbooks | 1 | 2026-09-09 to 2026-09-09 |
 
-The build made 412 commits:
+The build made 432 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 412 | first version of an act |
+| 432 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -846,7 +886,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 5 laws in the record.
-- 412 tags.
+- 432 tags.
 
 ## Dates
 
@@ -858,7 +898,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `bad8443254b43e9486f124b5325c6cd10a0f76dea646b6253ab1f1fb6b131ebc` (28391358 bytes).
+- Corpus: sha256 `a1f194a6ed470715a15c42e90b6991b9369115ebc18fef3d85e51742398cf479` (30334804 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1281,6 +1321,26 @@ No second build of this corpus has been compared yet.
 - NRS chapter 377B: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 377C: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 377D: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 378: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 378A: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 379: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 380: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 380A: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 381: one version, dated 2026-09-09 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 383: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 384: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 385: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 385A: one version, dated 2026-09-09 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 385B: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 386: one version, dated 2026-09-09 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388: one version, dated 2026-09-09 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388A: one version, dated 2026-09-09 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388D: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388E: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388F: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388G: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 388H: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 389: one version, dated 2026-09-09 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 
 ## What AI did and did not do
 
@@ -1292,6 +1352,26 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none (scripts only; no model wrote or altered legal text)
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.

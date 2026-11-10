@@ -420,8 +420,28 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-377b/` | NRS chapter 377B: Tax for infrastructure | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
 | `nrs-377c/` | NRS chapter 377C: Tax for school capital projects | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
 | `nrs-377d/` | NRS chapter 377D: Tax for miscellaneous local purposes | 1 | Oldest version available, dated 2026-04-15 (4 sections) |
+| `nrs-378/` | NRS chapter 378: State library, archives and public records | 1 | Oldest version available, dated 2024-06-29 (36 sections) |
+| `nrs-378a/` | NRS chapter 378A: State historical records advisory board | 1 | Oldest version available, dated 2024-06-29 (10 sections) |
+| `nrs-379/` | NRS chapter 379: Public libraries | 1 | Oldest version available, dated 2026-04-15 (61 sections) |
+| `nrs-380/` | NRS chapter 380: Law libraries | 1 | Oldest version available, dated 2024-06-29 (21 sections) |
+| `nrs-380a/` | NRS chapter 380A: State council on libraries and literacy | 1 | Oldest version available, dated 2026-04-15 (9 sections) |
+| `nrs-381/` | NRS chapter 381: State museums | 1 | Oldest version available, dated 2026-09-09 (45 sections) |
+| `nrs-383/` | NRS chapter 383: Historic preservation and archeology | 1 | Oldest version available, dated 2026-04-15 (34 sections) |
+| `nrs-384/` | NRS chapter 384: Historic districts | 1 | Oldest version available, dated 2024-06-29 (23 sections) |
+| `nrs-385/` | NRS chapter 385: State administrative organization | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
+| `nrs-385a/` | NRS chapter 385A: Accountability of public schools | 1 | Oldest version available, dated 2026-09-09 (62 sections) |
+| `nrs-385b/` | NRS chapter 385B: Nevada interscholastic activities association | 1 | Oldest version available, dated 2026-04-15 (30 sections) |
+| `nrs-386/` | NRS chapter 386: Local administrative organization | 1 | Oldest version available, dated 2026-09-09 (72 sections) |
+| `nrs-388/` | NRS chapter 388: System of public instruction | 1 | Oldest version available, dated 2026-09-09 (295 sections) |
+| `nrs-388a/` | NRS chapter 388A: Charter schools | 1 | Oldest version available, dated 2026-09-09 (172 sections) |
+| `nrs-388d/` | NRS chapter 388D: Alternative school choices | 1 | Oldest version available, dated 2026-04-15 (35 sections) |
+| `nrs-388e/` | NRS chapter 388E: Education of children in foster care | 1 | Oldest version available, dated 2026-04-15 (10 sections) |
+| `nrs-388f/` | NRS chapter 388F: Interstate compact on educational opportunity for military children | 1 | Oldest version available, dated 2026-04-15 (8 sections) |
+| `nrs-388g/` | NRS chapter 388G: Alternative school management | 1 | Oldest version available, dated 2026-04-15 (49 sections) |
+| `nrs-388h/` | NRS chapter 388H: Programs of education for incarcerated persons | 1 | Oldest version available, dated 2026-04-15 (6 sections) |
+| `nrs-389/` | NRS chapter 389: Academics and textbooks | 1 | Oldest version available, dated 2026-09-09 (53 sections) |
 
-Chapters added on 2026-11-10 (407 chapters, 20847 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
+Chapters added on 2026-11-10 (427 chapters, 21940 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
 
 ## What it does not show
 

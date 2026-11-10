@@ -5768,6 +5768,286 @@
      "sha256": "44e31e17870bdad607cd6f1ff623c5ae01f866544be9c68a1553673d4655cab3"
     }
    ]
+  },
+  {
+   "slug": "nrs-378",
+   "short": "NRS 378",
+   "title": "Nevada Revised Statutes, chapter 378: State library, archives and public records",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-378.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 36,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-378.html",
+     "sha256": "fe28c4b3fc1f2d5fb5f2ecdbeae1b8bdfb7e454aeb8a80c7ae9355533741335b"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-378a",
+   "short": "NRS 378A",
+   "title": "Nevada Revised Statutes, chapter 378A: State historical records advisory board",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-378A.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 10,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-378A.html",
+     "sha256": "3cd0f4c3c5d70f8a37aadf5240c7d653ba240fc3cf6dcbc136c5558025989990"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-379",
+   "short": "NRS 379",
+   "title": "Nevada Revised Statutes, chapter 379: Public libraries",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-379.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 61,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-379.html",
+     "sha256": "45567c8509eb8a1222a18ceeb192181f5c0b3065f2b3c066646dbe2eb9e552c5"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-380",
+   "short": "NRS 380",
+   "title": "Nevada Revised Statutes, chapter 380: Law libraries",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-380.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 21,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-380.html",
+     "sha256": "3a923f23295acf6321c839e92e3dafd4e85870518269c44a382f78995a9e29d1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-380a",
+   "short": "NRS 380A",
+   "title": "Nevada Revised Statutes, chapter 380A: State council on libraries and literacy",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-380A.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 9,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-380A.html",
+     "sha256": "f59b3345bf0fb7072f5edd698414b509e0d2517861300a4dc9803514c422596e"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-381",
+   "short": "NRS 381",
+   "title": "Nevada Revised Statutes, chapter 381: State museums",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-381.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 45,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-381.html",
+     "sha256": "9a4dfe850c790f5c8b93ad425aafaec1a175815924dfa76d4d3bf816e963e27c"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-383",
+   "short": "NRS 383",
+   "title": "Nevada Revised Statutes, chapter 383: Historic preservation and archeology",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-383.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 34,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-383.html",
+     "sha256": "ec5adbc8dd43b5cb9c3a4a05cde5398ba0cda9a25e75d6ffe11bd6245eacd2e6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-384",
+   "short": "NRS 384",
+   "title": "Nevada Revised Statutes, chapter 384: Historic districts",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-384.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 23,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-384.html",
+     "sha256": "34a1d5891a671b7e58605750e0c7c1767bc17dc9c646b885ead18f2d20f6e89d"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-385",
+   "short": "NRS 385",
+   "title": "Nevada Revised Statutes, chapter 385: State administrative organization",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-385.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 62,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-385.html",
+     "sha256": "5f6aaff539e9f97a4f2001d5181ecc96ffa98b435e3e9d5b7c1e40f8a2acec20"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-385a",
+   "short": "NRS 385A",
+   "title": "Nevada Revised Statutes, chapter 385A: Accountability of public schools",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-385A.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 62,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-385A.html",
+     "sha256": "d2e8a28c8539deb52f5bea84952d5d3d5a6d549740812531e8bd7af25a6eab18"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-385b",
+   "short": "NRS 385B",
+   "title": "Nevada Revised Statutes, chapter 385B: Nevada interscholastic activities association",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-385B.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 30,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-385B.html",
+     "sha256": "23db0bdbd61fde556f7cc18e512ebdcc7111350119702aa6b2ee2dbd9ccda7fd"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-386",
+   "short": "NRS 386",
+   "title": "Nevada Revised Statutes, chapter 386: Local administrative organization",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-386.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 72,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-386.html",
+     "sha256": "28437505ff3cb049a98689c4baa3d2b3e945c26035dd644be32d52b92f093f20"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388",
+   "short": "NRS 388",
+   "title": "Nevada Revised Statutes, chapter 388: System of public instruction",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 295,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388.html",
+     "sha256": "c641b429a559361baae1ed0bbfe629705ced4196b10f6d49c6d64618f36fb55f"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388a",
+   "short": "NRS 388A",
+   "title": "Nevada Revised Statutes, chapter 388A: Charter schools",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388A.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 172,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388A.html",
+     "sha256": "a52145b7ea5073371be310cb70bdc7021bffcdf32c231f395e6f1653b92a6ec3"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388d",
+   "short": "NRS 388D",
+   "title": "Nevada Revised Statutes, chapter 388D: Alternative school choices",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388D.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 35,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388D.html",
+     "sha256": "75f6afa30a8a74ea3b2830e6dd3909e77fc2b4e44c805396559799b6441bbc00"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388e",
+   "short": "NRS 388E",
+   "title": "Nevada Revised Statutes, chapter 388E: Education of children in foster care",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388E.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 10,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388E.html",
+     "sha256": "3ba8f9ed87698455de10fd9d404d0d56e08ccfd0870a29fe9fb558eb623b51ac"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388f",
+   "short": "NRS 388F",
+   "title": "Nevada Revised Statutes, chapter 388F: Interstate compact on educational opportunity for military children",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388F.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 8,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388F.html",
+     "sha256": "b3561b68ebdc049be611eeb148be4bed94673d6a9dc34403ed4d85a39b26fd3a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388g",
+   "short": "NRS 388G",
+   "title": "Nevada Revised Statutes, chapter 388G: Alternative school management",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388G.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 49,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388G.html",
+     "sha256": "07017fc3708000a343d6ba46279f8c8a8bdd51ab80406e617182846896e44bb6"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-388h",
+   "short": "NRS 388H",
+   "title": "Nevada Revised Statutes, chapter 388H: Programs of education for incarcerated persons",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-388H.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 6,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-388H.html",
+     "sha256": "3e94e48cdb8b916a639b659deaccd17d803d91a2a3354303aaaa56557710923a"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-389",
+   "short": "NRS 389",
+   "title": "Nevada Revised Statutes, chapter 389: Academics and textbooks",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-389.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 53,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-389.html",
+     "sha256": "1aa0da3e115f16e03d583b0dd09b643a5a5e44789c534ffecab89ae2af549e15"
+    }
+   ]
   }
  ]
 }
