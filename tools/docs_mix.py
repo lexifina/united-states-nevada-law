@@ -14,7 +14,7 @@ def key(x):
     return [int(y) if y.isdigit() else y for y in re.split(r'(\d+)', x)]
 
 
-parts = [f for f in os.listdir(CD) if f.endswith('.json') and os.path.exists(os.path.join(CD, f[:-5] + '.PUBLISH'))]
+parts = [f for f in os.listdir(CD) if f.endswith('.json') and not f.startswith('zz-fix') and os.path.exists(os.path.join(CD, f[:-5] + '.PUBLISH'))]
 acts = sorted((json.load(open(os.path.join(CD, f), encoding='utf-8'))['acts'][0] for f in parts), key=lambda a: key(a['slug']))
 nsec = sum(len(a['versions'][0]['units']) for a in acts)
 rows = ''.join(f"{NL}| `{a['slug']}/` | {a['title'].replace('Nevada Revised Statutes, chapter', 'NRS chapter')} | 1 | Oldest version available, dated {a['versions'][0]['from']} ({len(a['versions'][0]['units'])} sections) |" for a in acts)
