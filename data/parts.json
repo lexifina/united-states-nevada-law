@@ -1944,6 +1944,12 @@
    ],
    "sha256": "506e1b818a5aab73834cd93ef35ddcda1957843ded637d6754f4afd91a0c50cc"
   },
+  "nrs-293.json": {
+   "acts": [
+    "nrs-293"
+   ],
+   "sha256": "0deac7d24dc5b33c7d68166dea61bce1437cae092d57cd5968554644f2308959"
+  },
   "nrs-293b.json": {
    "acts": [
     "nrs-293b"
@@ -2514,6 +2520,12 @@
    ],
    "sha256": "d2834e0871cefd47b766be96c7e3109381bee4371bbdc13aa35d38e183b68627"
   },
+  "nrs-387.json": {
+   "acts": [
+    "nrs-387"
+   ],
+   "sha256": "2e2edd7fe0b773eddd64aca18303162546a1c596efe805424ad193e2c42c7ab8"
+  },
   "nrs-388.json": {
    "acts": [
     "nrs-388"
@@ -2663,6 +2675,12 @@
     "nrs-410"
    ],
    "sha256": "f50fdc6cb473923003c96bfd31b8462c4823935c15e7e0de7a2228e58e790f12"
+  },
+  "nrs-412.json": {
+   "acts": [
+    "nrs-412"
+   ],
+   "sha256": "8f37237c52c47ab45aa480b758d5dd4171d04374cad80d3f9b19f3390c2160e4"
   },
   "nrs-413.json": {
    "acts": [
@@ -3108,6 +3126,12 @@
    ],
    "sha256": "4434c725feed5aaf3d6046bb7306dc5493bacca95168a1ac10626d37622bfef6"
   },
+  "nrs-476.json": {
+   "acts": [
+    "nrs-476"
+   ],
+   "sha256": "507f40c84a7bbe91c1c3b9e05545e44ab53c70a0a332e2c6e92c43f86967116a"
+  },
   "nrs-477.json": {
    "acts": [
     "nrs-477"
@@ -3221,6 +3245,12 @@
     "nrs-489"
    ],
    "sha256": "fd05c64a92a6705d1135e16e3016640042e502c0394fa5485e0453afd7178761"
+  },
+  "nrs-490.json": {
+   "acts": [
+    "nrs-490"
+   ],
+   "sha256": "7f3f32d86af8b3e2b7a5794c8c2d5f6789a195fa25f419671cafd0cd18609a90"
   },
   "nrs-493.json": {
    "acts": [

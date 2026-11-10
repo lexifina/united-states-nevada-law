@@ -4608,6 +4608,20 @@
    ]
   },
   {
+   "slug": "nrs-293",
+   "short": "NRS 293",
+   "title": "Nevada Revised Statutes, chapter 293: Elections",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-293.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 416,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-293.html",
+     "sha256": "4ce9599105f7005e65fec7d73faddc76d11bb692fda4ceedfd11db5cfea977af"
+    }
+   ]
+  },
+  {
    "slug": "nrs-293b",
    "short": "NRS 293B",
    "title": "Nevada Revised Statutes, chapter 293B: Mechanical voting systems or devices",
@@ -5938,6 +5952,20 @@
    ]
   },
   {
+   "slug": "nrs-387",
+   "short": "NRS 387",
+   "title": "Nevada Revised Statutes, chapter 387: Financial support of school system",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-387.html",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 137,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-387.html",
+     "sha256": "59d1c6d3f784b470a12fe37e2bf6bae8bd14413a4d42d6436dff9d6269df1621"
+    }
+   ]
+  },
+  {
    "slug": "nrs-388",
    "short": "NRS 388",
    "title": "Nevada Revised Statutes, chapter 388: System of public instruction",
@@ -6284,6 +6312,20 @@
      "units": 43,
      "source_url": "https://www.leg.state.nv.us/NRS/NRS-410.html",
      "sha256": "914236290074addcad9f4f17512393138aa3bc22673a7bd03cf3cb79631cf7e1"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-412",
+   "short": "NRS 412",
+   "title": "Nevada Revised Statutes, chapter 412: State militia",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-412.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 289,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-412.html",
+     "sha256": "7a0978586d95534b93a94521a252af34e47b6e5b97e1633712ef42b53bea2c45"
     }
    ]
   },
@@ -7324,6 +7366,20 @@
    ]
   },
   {
+   "slug": "nrs-476",
+   "short": "NRS 476",
+   "title": "Nevada Revised Statutes, chapter 476: Explosives and inflammable materials",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-476.html",
+   "versions": [
+    {
+     "from": "2024-06-29",
+     "units": 21,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-476.html",
+     "sha256": "de4597d1fb96c971a89fc6479ec24d60ace8d878b561a910fbd61ef09afb1cca"
+    }
+   ]
+  },
+  {
    "slug": "nrs-477",
    "short": "NRS 477",
    "title": "Nevada Revised Statutes, chapter 477: State fire marshal",
@@ -7586,6 +7642,20 @@
      "units": 149,
      "source_url": "https://www.leg.state.nv.us/NRS/NRS-489.html",
      "sha256": "2106bd23d62c3ce01ee19ffb131da07d3e79a7f79c699097bbf6b461b5b1dbb0"
+    }
+   ]
+  },
+  {
+   "slug": "nrs-490",
+   "short": "NRS 490",
+   "title": "Nevada Revised Statutes, chapter 490: Off-highway vehicles",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-490.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 67,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-490.html",
+     "sha256": "8fbe1a74993e0bc3ee89789c603574498abba15054c8764cbb15861465420b24"
     }
    ]
   },

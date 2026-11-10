@@ -337,6 +337,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-287/` | NRS chapter 287: Programs for public employees | 1 | Oldest version available, dated 2026-04-15 (120 sections) |
 | `nrs-288/` | NRS chapter 288: Relations between governments and public employees | 1 | Oldest version available, dated 2026-04-15 (89 sections) |
 | `nrs-289/` | NRS chapter 289: Peace officers and other law enforcement personnel | 1 | Oldest version available, dated 2026-04-15 (82 sections) |
+| `nrs-293/` | NRS chapter 293: Elections | 1 | Oldest version available, dated 2026-09-09 (416 sections) |
 | `nrs-293b/` | NRS chapter 293B: Mechanical voting systems or devices | 1 | Oldest version available, dated 2026-04-15 (80 sections) |
 | `nrs-293c/` | NRS chapter 293C: City elections | 1 | Oldest version available, dated 2026-04-15 (121 sections) |
 | `nrs-293d/` | NRS chapter 293D: Uniformed military and overseas absentee voters act | 1 | Oldest version available, dated 2026-04-15 (30 sections) |
@@ -432,6 +433,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-385a/` | NRS chapter 385A: Accountability of public schools | 1 | Oldest version available, dated 2026-09-09 (62 sections) |
 | `nrs-385b/` | NRS chapter 385B: Nevada interscholastic activities association | 1 | Oldest version available, dated 2026-04-15 (30 sections) |
 | `nrs-386/` | NRS chapter 386: Local administrative organization | 1 | Oldest version available, dated 2026-09-09 (72 sections) |
+| `nrs-387/` | NRS chapter 387: Financial support of school system | 1 | Oldest version available, dated 2026-09-09 (137 sections) |
 | `nrs-388/` | NRS chapter 388: System of public instruction | 1 | Oldest version available, dated 2026-09-09 (295 sections) |
 | `nrs-388a/` | NRS chapter 388A: Charter schools | 1 | Oldest version available, dated 2026-09-09 (172 sections) |
 | `nrs-388d/` | NRS chapter 388D: Alternative school choices | 1 | Oldest version available, dated 2026-04-15 (35 sections) |
@@ -457,6 +459,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-407a/` | NRS chapter 407A: Outdoor recreation | 1 | Oldest version available, dated 2024-12-09 (37 sections) |
 | `nrs-408/` | NRS chapter 408: Highways, roads and transportation facilities | 1 | Oldest version available, dated 2026-04-15 (248 sections) |
 | `nrs-410/` | NRS chapter 410: Beautification of highways | 1 | Oldest version available, dated 2026-04-15 (43 sections) |
+| `nrs-412/` | NRS chapter 412: State militia | 1 | Oldest version available, dated 2026-04-15 (289 sections) |
 | `nrs-413/` | NRS chapter 413: Civil air patrol | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
 | `nrs-414/` | NRS chapter 414: Emergency management | 1 | Oldest version available, dated 2026-04-15 (66 sections) |
 | `nrs-414a/` | NRS chapter 414A: Nevada intrastate mutual aid system | 1 | Oldest version available, dated 2026-04-15 (25 sections) |
@@ -531,6 +534,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-472/` | NRS chapter 472: State forester firewarden | 1 | Oldest version available, dated 2026-04-15 (24 sections) |
 | `nrs-474/` | NRS chapter 474: County fire protection districts | 1 | Oldest version available, dated 2026-04-15 (71 sections) |
 | `nrs-475/` | NRS chapter 475: Crimes and responsibilities concerning fires | 1 | Oldest version available, dated 2024-06-29 (19 sections) |
+| `nrs-476/` | NRS chapter 476: Explosives and inflammable materials | 1 | Oldest version available, dated 2024-06-29 (21 sections) |
 | `nrs-477/` | NRS chapter 477: State fire marshal | 1 | Oldest version available, dated 2026-04-15 (62 sections) |
 | `nrs-480/` | NRS chapter 480: Administration of laws relating to public safety | 1 | Oldest version available, dated 2026-04-15 (60 sections) |
 | `nrs-481/` | NRS chapter 481: Administration of laws relating to motor vehicles | 1 | Oldest version available, dated 2026-09-09 (35 sections) |
@@ -550,6 +554,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-487/` | NRS chapter 487: Repair, removal and disposal of vehicles | 1 | Oldest version available, dated 2026-04-15 (149 sections) |
 | `nrs-488/` | NRS chapter 488: Watercraft | 1 | Oldest version available, dated 2026-04-15 (93 sections) |
 | `nrs-489/` | NRS chapter 489: Manufactured homes; mobile homes and similar vehicles; factory-built housing | 1 | Oldest version available, dated 2026-09-09 (149 sections) |
+| `nrs-490/` | NRS chapter 490: Off-highway vehicles | 1 | Oldest version available, dated 2026-04-15 (67 sections) |
 | `nrs-493/` | NRS chapter 493: General provisions | 1 | Oldest version available, dated 2026-04-15 (26 sections) |
 | `nrs-494/` | NRS chapter 494: State airports | 1 | Oldest version available, dated 2024-06-29 (16 sections) |
 | `nrs-495/` | NRS chapter 495: City and county airports; acquisition of property | 1 | Oldest version available, dated 2024-06-29 (22 sections) |
@@ -828,7 +833,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-721/` | NRS chapter 721: Electronic legal material (uniform act) | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
 | `nrs-722/` | NRS chapter 722: Fiduciary access to digital assets (uniform act) | 1 | Oldest version available, dated 2024-06-29 (45 sections) |
 
-Chapters added on 2026-11-10 (814 chapters, 46723 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
+Chapters added on 2026-11-10 (819 chapters, 47653 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
 
 ## What it does not show
 
