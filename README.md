@@ -61,6 +61,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-050/` | NRS chapter 50: Witnesses | 1 | Oldest version available, dated 2026-04-15 (64 sections) |
 | `nrs-051/` | NRS chapter 51: Hearsay | 1 | Oldest version available, dated 2024-06-29 (38 sections) |
 | `nrs-052/` | NRS chapter 52: Documentary and other physical evidence | 1 | Oldest version available, dated 2026-04-15 (53 sections) |
+| `nrs-053/` | NRS chapter 53: Affidavits; foreign depositions | 1 | Oldest version available, dated 2026-04-15 (31 sections) |
 | `nrs-054/` | NRS chapter 54: Corroborative proof of residence | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
 | `nrs-055/` | NRS chapter 55: Findings of presumed death | 1 | Oldest version available, dated 2024-06-29 (3 sections) |
 | `nrs-056/` | NRS chapter 56: Tests of biological specimens | 1 | Oldest version available, dated 2024-06-29 (1 sections) |
@@ -833,7 +834,7 @@ A first build of Nevada law as git: one file per provision, with the text publis
 | `nrs-721/` | NRS chapter 721: Electronic legal material (uniform act) | 1 | Oldest version available, dated 2024-06-29 (17 sections) |
 | `nrs-722/` | NRS chapter 722: Fiduciary access to digital assets (uniform act) | 1 | Oldest version available, dated 2024-06-29 (45 sections) |
 
-Chapters added on 2026-11-10 (819 chapters, 47653 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
+Chapters added on 2026-11-10 (820 chapters, 47684 sections) are each read from the newest web-archive copy of the chapter page and dated by the revision stamp the page prints ("Rev. <date>"), or by the day of the copy when it has none; a section the page prints twice (for example a text in force from a later day) keeps both texts, in page order.
 
 ## What it does not show
 

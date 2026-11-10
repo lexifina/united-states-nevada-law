@@ -55,6 +55,7 @@ This file is written by the build on 2026-11-10, the day the source data was ret
 | Nevada Legislature: Nevada Revised Statutes chapter 050 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-050.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 051 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-051.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 052 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-052.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
+| Nevada Legislature | <https://www.leg.state.nv.us/NRS/NRS-053.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 054 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-054.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 055 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-055.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
 | Nevada Legislature: Nevada Revised Statutes chapter 056 (leg.state.nv.us), via Internet Archive | <https://www.leg.state.nv.us/NRS/NRS-056.html> | 2026-11-10 | Statute text is not copyrightable (Georgia v. Public.Resource.Org, 2020). The Legislative Counsel Bureau may claim copyright in its publications (NRS 218F.730); its source notes and annotations are not used. |
@@ -960,6 +961,7 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nrs-050` | Nevada Revised Statutes, chapter 50: Witnesses | 1 | 2026-04-15 to 2026-04-15 |
 | `nrs-051` | Nevada Revised Statutes, chapter 51: Hearsay | 1 | 2024-06-29 to 2024-06-29 |
 | `nrs-052` | Nevada Revised Statutes, chapter 52: Documentary and other physical evidence | 1 | 2026-04-15 to 2026-04-15 |
+| `nrs-053` | Nevada Revised Statutes, chapter 53: Affidavits; foreign depositions | 1 | 2026-04-15 to 2026-04-15 |
 | `nrs-054` | Nevada Revised Statutes, chapter 54: Corroborative proof of residence | 1 | 2024-06-29 to 2024-06-29 |
 | `nrs-055` | Nevada Revised Statutes, chapter 55: Findings of presumed death | 1 | 2024-06-29 to 2024-06-29 |
 | `nrs-056` | Nevada Revised Statutes, chapter 56: Tests of biological specimens | 1 | 2024-06-29 to 2024-06-29 |
@@ -1732,11 +1734,11 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `nrs-721` | Nevada Revised Statutes, chapter 721: Electronic legal material (uniform act) | 1 | 2024-06-29 to 2024-06-29 |
 | `nrs-722` | Nevada Revised Statutes, chapter 722: Fiduciary access to digital assets (uniform act) | 1 | 2024-06-29 to 2024-06-29 |
 
-The build made 898 commits:
+The build made 899 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 824 | first version of an act |
+| 825 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
@@ -1744,7 +1746,7 @@ Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-10.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
 - 5 laws in the record.
-- 824 tags.
+- 825 tags.
 
 ## Dates
 
@@ -1756,7 +1758,7 @@ When a law gives no date of its own, the default rule applies: No dated history 
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `9eb279b1e0a741d9dfaac33d111c1d049d3797e3ae441d68146f0a0093f3fc8a` (76287290 bytes).
+- Corpus: sha256 `926a3d5d236cb3bcf939277c09230d82ab3d82457eb6fddd733306e7384a3384` (76303267 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
@@ -1820,6 +1822,7 @@ No second build of this corpus has been compared yet.
 - NRS chapter 050: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 051: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 052: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
+- NRS chapter 053: one version, dated 2026-04-15 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 054: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 055: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
 - NRS chapter 056: one version, dated 2024-06-29 (the chapter page's own revision stamp); one unit per section (number, leadline, text); source notes (history lines) and the chapter's table of contents are not kept.
@@ -2676,6 +2679,7 @@ The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
 - none (scripts only; no model wrote or altered legal text)
+- Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.
 - Claude Code wrote the code and chose the source; it did not write or alter any legal text. The code is deterministic and runs no model.

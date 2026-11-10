@@ -744,6 +744,20 @@
    ]
   },
   {
+   "slug": "nrs-053",
+   "short": "NRS 53",
+   "title": "Nevada Revised Statutes, chapter 53: Affidavits; foreign depositions",
+   "url": "https://www.leg.state.nv.us/NRS/NRS-053.html",
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "units": 31,
+     "source_url": "https://www.leg.state.nv.us/NRS/NRS-053.html",
+     "sha256": "86838ef071c0f9a4c27cb4f5b8c43dcdf83619bc0a200632ba4b653ae99bd5eb"
+    }
+   ]
+  },
+  {
    "slug": "nrs-054",
    "short": "NRS 54",
    "title": "Nevada Revised Statutes, chapter 54: Corroborative proof of residence",
